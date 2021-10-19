@@ -159,9 +159,10 @@
     {
       "key": "奈菲迷",
       "name": "奈菲迷",
-      "type": 0,
+      "type": 1,
       "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
-      "playUrl": ""
+      "playUrl": "",
+      "categories": []
     },
     {
       "key": "瓜皮影视",
