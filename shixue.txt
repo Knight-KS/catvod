@@ -150,6 +150,23 @@
       "categories": []
     },
     {
+      "key": "奈菲迷",
+      "name": "奈菲迷",
+      "type": 1,
+      "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.mmkv.cn/tv.php?url=",
+      "categories": []
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 1,
+      "api": "http://fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://dp.8b5q.cn/dplayer/?url=",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "One影视",
       "name": "One影视_M",
       "type": 0,
@@ -166,27 +183,10 @@
       "categories": []
     },
     {
-      "key": "奈菲迷",
-      "name": "奈菲迷",
-      "type": 1,
-      "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.mmkv.cn/tv.php?url=",
-      "categories": []
-    },
-    {
       "key": "瓜皮影视",
       "name": "瓜皮影视",
       "type": 1,
       "api": "https://www.dijiaxia.com/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "番茄资源",
-      "name": "番茄资源",
-      "type": 1,
-      "api": "http://fqzy.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://dp.8b5q.cn/dplayer/?url=",
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "灵智",
