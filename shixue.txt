@@ -161,7 +161,7 @@
       "name": "奈菲迷",
       "type": 1,
       "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
+      "playUrl": "https://jx.mmkv.cn/tv.php?url=",
       "categories": []
     },
     {
