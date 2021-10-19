@@ -167,19 +167,119 @@
       "filterable": 1
     },
     {
-      "key": "One影视",
-      "name": "One影视_M",
+      "key": "BL影视",
+      "name": "BL影视_MB",
       "type": 0,
-      "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://vip.bljiex.com/?v=",
       "categories": []
     },
-    {
+        {
       "key": "若惜影视",
       "name": "若惜影视_M",
       "type": 0,
       "api": "https://vip.ruoxinew.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+      "categories": []
+    },
+    {
+      "key": "融兴资源",
+      "name": "融兴资源",
+      "type": 0,
+      "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://vip.bljiex.com/?v=",
+      "categories": []
+    },
+    {
+      "key": "热播剧",
+      "name": "热播剧_M",
+      "type": 1,
+      "api": "http://app.reboju.net/api.php/provide/vod",
+      "playUrl": "https://m3u8.cachecha.com/?url=",
+      "categories": []
+    },
+    {
+      "key": "呆呆影视",
+      "name": "呆呆影视",
+      "type": 1,
+      "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.daidaitv.top:43810/?url=",
+      "categories": [
+        "影片",
+        "追剧",
+        "综艺",
+        "哔哩"
+      ]
+    },
+    {
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 1,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "key": "滴哩TV",
+      "name": "滴哩TV",
+      "type": 1,
+      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
+      "playUrl": "https://app.diliktv.xyz/jx/?url=",
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "犯罪片",
+        "纪录片",
+        "悬疑片",
+        "奇幻片"
+      ]
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源_M",
+      "type": 1,
+      "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "key": "北斗资源",
+      "name": "北斗资源_M",
+      "type": 1,
+      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://player.bdxzym3u8.com/dplayer/?url="
+    },
+    {
+      "key": "韩剧资源",
+      "name": "韩剧资源_M",
+      "type": 0,
+      "api": "http://www.hanjuzy.com/inc/api.php",
+      "playUrl": "https://jx.aidouer.net/?url="
+    },
+    {
+      "key": "任我云资源",
+      "name": "任我云资源",
+      "type": 0,
+      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
+      "playUrl": "https://jiexi.linzhiyuan.xyz/jiexi/?url="
+    },
+    {
+      "key": "One影视",
+      "name": "One影视_M",
+      "type": 0,
+      "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
       "categories": []
     },
     {
@@ -220,15 +320,7 @@
       "playUrl": "",
       "categories": []
     },
-    {
-      "key": "融兴资源",
-      "name": "融兴资源",
-      "type": 0,
-      "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
-      "categories": []
-    },
-    {
+       {
       "key": "蜂鸟视频",
       "name": "蜂鸟视频",
       "type": 0,
@@ -268,14 +360,7 @@
       "playUrl": "",
       "categories": []
     },
-    {
-      "key": "热播剧",
-      "name": "热播剧_M",
-      "type": 1,
-      "api": "http://app.reboju.net/api.php/provide/vod",
-      "playUrl": "https://m3u8.cachecha.com/?url=",
-      "categories": []
-    },
+  
     {
       "key": "不开资源",
       "name": "不开资源_M",
@@ -283,26 +368,6 @@
       "api": "http://c.bukai.men/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": []
-    },
-    {
-      "key": "呆呆影视",
-      "name": "呆呆影视",
-      "type": 1,
-      "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.renrenmi.cc/?url=",
-      "categories": [
-        "影片",
-        "追剧",
-        "综艺",
-        "哔哩"
-      ]
-    },
-    {
-      "key": "人人迷",
-      "name": "人人迷",
-      "type": 1,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "黄河影视",
@@ -319,33 +384,6 @@
       "api": "http://jhzy.jhdyw.vip:8091/api.php/provide/vod",
       "playUrl": "",
       "categories": []
-    },
-    {
-      "key": "滴哩TV",
-      "name": "滴哩TV",
-      "type": 1,
-      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "犯罪片",
-        "纪录片",
-        "悬疑片",
-        "奇幻片"
-      ]
     },
     {
       "key": "千寻影视",
@@ -569,20 +607,6 @@
       "playUrl": ""
     },
     {
-      "key": "红牛资源",
-      "name": "红牛资源_M",
-      "type": 1,
-      "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
-      "playUrl": "https://www.tutukiki.com/m3u8/?url="
-    },
-    {
-      "key": "北斗资源",
-      "name": "北斗资源_M",
-      "type": 1,
-      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://player.bdxzym3u8.com/dplayer/?url="
-    },
-    {
       "key": "火星2048",
       "name": "火星2048_M",
       "type": 0,
@@ -688,20 +712,6 @@
         "欧美剧",
         "福利"
       ]
-    },
-    {
-      "key": "韩剧资源",
-      "name": "韩剧资源_M",
-      "type": 0,
-      "api": "http://www.hanjuzy.com/inc/api.php",
-      "playUrl": "https://jx.aidouer.net/?url="
-    },
-    {
-      "key": "任我云资源",
-      "name": "任我云资源",
-      "type": 0,
-      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.linzhiyuan.xyz/jiexi/?url="
     },
     {
       "key": "爱看1080",
@@ -818,14 +828,6 @@
       "name": "三九美剧_M",
       "type": 0,
       "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "BL影视",
-      "name": "BL影视_MB",
-      "type": 0,
-      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": []
     },
@@ -1223,90 +1225,25 @@
     }
   ],
   "parses": [
-    {
+        {
       "name": "高清解析1",
-      "type": 0,
-      "url": "https://cdn.yangju.vip/k/?url="
-    },
-    {
-      "name": "高清解析2",
       "type": 0,
       "url": "https://jx.mmkv.cn/tv.php?url="
     },
     {
-      "name": "高清解析3",
-      "type": 0,
-      "url": "https://okjx.cc?url="
-    },
-    {
-      "name": "高清解析4",
-      "type": 0,
-      "url": "https://jx.mw0.cc/?url="
-    },
-    {
-      "name": "高清解析5",
+      "name": "高清解析2",
       "type": 0,
       "url": "http://jx.quanmingjiexi.com/?url="
     },
     {
-      "name": "高清解析6",
-      "type": 0,
-      "url": "https://parse.123mingren.com/Bei/?url="
-    },
-    {
-      "name": "高清解析7",
+      "name": "高清解析3",
       "type": 0,
       "url": "https://parse.123mingren.com/?url="
-    },
-    {
-      "name": "高清解析8",
-      "type": 0,
-      "url": "https://api.vodjx.top/?url="
     },
     {
       "name": "解析1",
       "type": 0,
       "url": "https://qimihe.com/?url="
-    },
-    {
-      "name": "解析2",
-      "type": 0,
-      "url": "http://api.baiyug.vip/index.php?url="
-    },
-    {
-      "name": "解析3",
-      "type": 0,
-      "url": "http://playx.top/?url="
-    },
-    {
-      "name": "解析4",
-      "type": 0,
-      "url": "http://play1.online/?url="
-    },
-    {
-      "name": "解析5",
-      "type": 0,
-      "url": "http://api.baiyug.vip/?url="
-    },
-    {
-      "name": "解析6",
-      "type": 0,
-      "url": "http://bofang.online/?url="
-    },
-    {
-      "name": "解析7",
-      "type": 0,
-      "url": "http://607p.com/?url="
-    },
-    {
-      "name": "解析8",
-      "type": 0,
-      "url": "http://pangujx.cc/?url="
-    },
-    {
-      "name": "解析9",
-      "type": 0,
-      "url": "https://jx.618g.com/?url="
     }
   ],
   "flags": [
