@@ -1,6 +1,15 @@
 {
-  "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
+  "spider": "https://gitlab.com/lohshixue/catvod/-/raw/main/custom_spider.jar",
   "sites": [
+    {
+      "key": "csp_Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
     {
       "key": "csp_EPangApp",
       "name": "阿房影视App",
