@@ -49,7 +49,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "http://www.9rmb.com/play/{playUrl}.html",
-  "playUa": "https://jx.mmkv.cn/tv.php?url=",
+  "playUa": "",
   "searchUrl": "http://www.9rmb.com/search?wd={wd}",
   "scVodNode": "//div[@class='movie-item']/a",
   "scVodName": "/@title",
