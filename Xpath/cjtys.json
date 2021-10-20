@@ -37,7 +37,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://cjt521.com/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "https://jx.mmkv.cn/tv.php?url=",
   "searchUrl": "https://cjt521.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
