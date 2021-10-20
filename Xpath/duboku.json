@@ -61,7 +61,7 @@
   "scVodNode": "//ul[contains(@class,'myui-vodlist__media')]//div[@class='thumb']",
   "scVodName": "/a/@title",
   "scVodId": "/a/@href",
-  "scVodIdR": "/detail/(\\w+)",
+  "scVodIdR": "/voddetail/(\\w+)",
   "scVodImg": "/a/@data-original",
   "scVodMark": "/a/span[contains(@class, 'pic-text')]/text()"
 }
