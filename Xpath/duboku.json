@@ -52,7 +52,7 @@
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist1')]",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/vodplay/(\\w+).html",
+  "dtUrlIdR": "/vodplay/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
