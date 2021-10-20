@@ -38,7 +38,7 @@
   "dtUrlIdR": "/play/(\\S+)",
   "dtUrlName": "/text()",
   "playUrl": "https://www.agefans.cc/play/{playUrl}",
-  "playUa": "",
+  "playUa": "https://jx.mmkv.cn/tv.php?url=",
   "searchUrl": "https://www.agefans.cc/search?query={wd}&page=1",
   "scVodNode": "//div[@class='blockcontent1']/div/a",
   "scVodName": "/img/@alt",
