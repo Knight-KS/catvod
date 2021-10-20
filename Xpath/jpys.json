@@ -56,7 +56,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.jpysvip.net/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "https://jx.mmkv.cn/tv.php?url=",
   "searchUrl": "https://www.jpysvip.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
