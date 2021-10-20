@@ -99,7 +99,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/94sm.json"
 },
 {
     "key": "csp_xpath_jpys",
@@ -109,7 +109,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/jpys.json"
 },
 {
     "key": "csp_xpath_age",
@@ -119,7 +119,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/agefans.json"
 },
 {
     "key": "csp_xpath_jpyszl",
@@ -129,7 +129,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/jpys.json"
 },
 {
     "key": "csp_xpath_cjt",
@@ -139,7 +139,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/cjtys.json"
 },
 {
     "key": "csp_xpath_nfmov",
@@ -149,7 +149,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/nfmovie.json"
 },
 {
     "key": "csp_xpath_Jumi",
@@ -159,7 +159,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/jumi.json"
 },
 {
     "key": "csp_xpath_tvci",
@@ -169,7 +169,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/tvci.json"
 },
 {
     "key": "csp_xpath_duboku",
@@ -179,7 +179,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+    "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"
 },
 {
       "key": "欧乐影院",
