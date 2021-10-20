@@ -51,7 +51,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://tv.ci/p/{playUrl}.html",
-  "playUa": "https://jx.mmkv.cn/tv.php?url=",
+  "playUa": "",
   "searchUrl": "https://tv.ci/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
