@@ -51,7 +51,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.duboku.tv/video/{playUrl}.html",
-  "playUa": "",
+  "playUa": "https://jx.mmkv.cn/tv.php?url=",
   "searchUrl": "https://www.duboku.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "//ul[contains(@class,'myui-vodlist__media')]//div[@class='thumb']",
   "scVodName": "/a/@title",
