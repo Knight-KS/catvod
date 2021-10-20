@@ -175,7 +175,7 @@
     "key": "csp_xpath_duboku",
     "name": "独播库(XPath)",
     "type": 3,
-    "api": "csp_XPathNfMov",
+    "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
