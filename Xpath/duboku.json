@@ -56,7 +56,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "https://api.duboku.com/parse/?url=",
   "searchUrl": "https://www.duboku.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "//ul[contains(@class,'myui-vodlist__media')]//div[@class='thumb']",
   "scVodName": "/a/@title",
