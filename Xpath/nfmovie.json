@@ -33,7 +33,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.nfmovies.com/video/{playUrl}",
   "playUa": "https://jx.mmkv.cn/tv.php?url=",
-  "searchUrl": "https://www.nfmovies.com/search.php?searchword={wd}",
+  "searchUrl": "https://www.nfmovies.com/search.php?searchword={wd}&limit=10",
   "scVodNode": "//ul[contains(@class,'myui-vodlist__media')]//div[@class='thumb']",
   "scVodName": "/a/@title",
   "scVodId": "/a/@href",
