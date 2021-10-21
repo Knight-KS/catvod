@@ -1291,6 +1291,11 @@
       "url": "https://parse.123mingren.com/?url="
     },
     {
+      "name": "高清解析4",
+      "type": 0,
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
       "name": "解析1",
       "type": 0,
       "url": "https://qimihe.com/?url="
