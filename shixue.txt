@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
-    },
+},
     {
       "key": "csp_Buka",
       "name": "真不卡(爬虫)",
