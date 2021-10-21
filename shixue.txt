@@ -173,7 +173,7 @@
 },
 {
     "key": "csp_xpath_duboku",
-    "name": "独播库(XPath)",
+    "name": "真独播库(XPath)",
     "type": 3,
     "api": "csp_XPathMac",
     "searchable": 1,
