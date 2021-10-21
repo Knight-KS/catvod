@@ -1281,19 +1281,27 @@
       "url": "https://jx.mmkv.cn/tv.php?url="
     },
     {
+      "name": "高清解析4",
+      "type": 0,
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
       "name": "高清解析2",
       "type": 0,
-      "url": "http://jx.quanmingjiexi.com/?url="
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "H8",
+      "url": "https://www.h8jx.com/jiexi.php?url="
+    },
+    {
+      "name": "parwix解析",
+      "url": "https://jx.parwix.com:4433/player/?url="
     },
     {
       "name": "高清解析3",
       "type": 0,
       "url": "https://parse.123mingren.com/?url="
-    },
-    {
-      "name": "高清解析4",
-      "type": 0,
-      "url": "https://www.ckmov.vip/api.php?url="
     },
     {
       "name": "解析1",
