@@ -113,7 +113,7 @@
 },
 {
     "key": "csp_xpath_jpys",
-    "name": "极品影视(XPath)",
+    "name": "极品影视(XPath)IJK",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -183,7 +183,7 @@
 },
 {
     "key": "csp_xpath_duboku",
-    "name": "真独播库(XPath)",
+    "name": "真独播库(XPath)硬",
     "type": 3,
     "api": "csp_XPathMac",
     "searchable": 1,
