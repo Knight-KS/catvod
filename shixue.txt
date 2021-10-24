@@ -172,6 +172,26 @@
     "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"
 },
 {
+     "key": "csp_xpath_saohuotv",
+     "name": "骚火电影(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+},
+{
+    "key": "csp_xpath_egg",
+    "name": "蛋蛋影院(XPath)",
+    "type": 3,
+    "api": "csp_XPathEgg",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+}
+{
       "key": "欧乐影院",
       "name": "欧乐影院",
       "type": 0,
