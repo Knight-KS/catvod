@@ -97,6 +97,25 @@
       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
     },
     {
+      "key": "csp_xpath_fantuan",
+      "name": "饭团影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/fantuan.json"
+    },{
+      "key": "csp_xpath_98net",
+      "name": "98net(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/98net_.json"
+    },
+    {
     "key": "csp_yysdali",
     "name": "YYDS影视",
     "type": 3,
