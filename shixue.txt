@@ -535,13 +535,6 @@
       "playUrl": ""
     },
     {
-      "key": "饭团资源",
-      "name": "饭团资源",
-      "type": 0,
-      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
-      "playUrl": ""
-    },
-    {
       "key": "星辰资源",
       "name": "星辰资源",
       "type": 1,
