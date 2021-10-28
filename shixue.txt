@@ -30,7 +30,7 @@
 {"key": "csp_xpath_libvio","name": "libvio(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/libvio.json"},
 
 {"key":"欧乐影院","name":"欧乐影院","type":0,"api":"https://www.olevod.com/api.php/provide/vod/at/xml","playUrl":"","categories":[]},
-{"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://zy.naifeimi.com/api.php/provide/vod/?ac=list","playUrl":"https://jx.mmkv.cn/tv.php?url=","categories":[]},
+{"key": "奈菲迷","name": "奈菲迷（个人免费站长优惠）","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",	"playUrl": "https://svip.naifeimi.com/nfm/?url="},
 {"key": "UVN.INK影视","name": "UVN.INK影视(需要授权个人免费站长优惠)","type": 1,"api": "http://shdmv.com/api.php/provide/vod","searchable": 1,"quickSearch": 0,"filterable": 0},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://dp.8b5q.cn/dplayer/?url=","searchable":1,"filterable":1},
 {"key":"BL影视","name":"BL影视_MB","type":0,"api":"https://bljiex.com/api.php/provide/vod/at/xml","playUrl":"https://vip.bljiex.com/?v=","categories":[]},
