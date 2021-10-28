@@ -12,7 +12,6 @@
   "filterable": 1
 },
 {"key": "csp_yysdali","name": "YYDS影视","type": 3,"api": "csp_YydsAli","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/trex.json"},
-###以上需要jar支持的Xpath源api
 
 {
   "key": "csp_Ysgc",
