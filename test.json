@@ -166,6 +166,35 @@
       ]
     },
     {
+      "group": "TEST",
+      "channels": [
+{"name":"TEST1,urls":["https://auete.com/api/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST2,urls":["https://player.duoduozy.com/ddplay/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST3,urls":["https://rr.4kbuka.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST4,urls":["http://1090ys2.com/x2.php?id=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST5,urls":["https://wy.mlkioiy.cn/api/GetDownUrlWy/d91ea50eb7eb4932b92aa8bb3c61560d/https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST6,urls":["https://jx.123ku.com/123kudpbfq/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST7,urls":["https://jx.qiuzeqi.top/jx1/dp/index.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST8,urls":["https//1987s.com/api/dp.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST12,urls":["https://jx.mmkv.cn/tv.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST13,urls":["https://www.ckmov.vip/api.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST14,urls":["https://jx.xmflv.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST15,urls":["https://www.h8jx.com/jiexi.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST16,urls":["https://jx.parwix.com:4433/player/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST17,urls":["https://parse.123mingren.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST18,urls":["https://qimihe.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST19,urls":["https://okjx.cc?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST20,urls":["https://jx.ppflv.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST21,urls":["https://jxx.smys8.cn/index.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST22,urls":["https://www.cuan.la/m3u8.php?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST23,urls":["https://jsap.attakids.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST24,urls":["https://api.jhdyw.vip/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST25,urls":["http://jx.quanmingjiexi.com/?url=https://www.mgtv.com/b/324653/5285886.html]},
+{"name":"TEST26,urls":["https://www.qianyicp.com/jiexi/index.php?url=https://www.mgtv.com/b/324653/5285886.html]}
+
+      ]
+    },
+    {
       "group": "港台",
       "channels": [
         {
