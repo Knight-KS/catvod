@@ -19,7 +19,7 @@
   "cateVodIdR": "/(\\S+).html",
   "cateVodImg": "/a/img/@src",
   "cateVodMark": "/a/div[@class='note']/span/text()",
-  "dtUrl": "http://www.dandanzan.cc/dianying/{vid}.html",
+  "dtUrl": "http://www.dandanzan.cc/{vid}.html",
   "dtNode": "//header[@class='product-header']",
   "dtName": "//h1[contains(@class,'product-title')]/text()",
   "dtImg": "/img[1]/@src",
