@@ -49,7 +49,7 @@
   "dtFromNode": "/nil",
   "dtFromName": "/nil",
   "dtFromNameR": "",
-  "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist1')]",
+  "dtUrlNode": "/nil",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "@href",
   "dtUrlIdR": "/vodplay/(\\S+).html",
