@@ -7,7 +7,7 @@
 {"key":"csp_xpath_duboku","name":"独播库(XPath)硬","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"},
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "奈菲迷","name": "奈菲迷（个人免费站长优惠）","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nfx","name": "NFXHD(爬虫)","type": 3,"api": "csp_Nfx","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"csp_EPangApp","name":"阿房影视App","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
@@ -36,7 +36,7 @@
 {"key":"csp_xpath_555tv","name":"555电影(XPath)","type":3,"api": "csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/tzhlzt/mo/raw/master/wain/555tv.json"},
 
 {"key":"欧乐影院","name":"欧乐影院","type":0,"api":"https://www.olevod.com/api.php/provide/vod/at/xml","playUrl":"","categories":[]},
-{"key": "UVN.INK影视","name": "UVN.INK影视(需要授权个人免费站长优惠)","type": 1,"api": "http://shdmv.com/api.php/provide/vod"},
+{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod"},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://dp.8b5q.cn/dplayer/?url=","searchable":1,"filterable":1},
 {"key":"BL影视","name":"BL影视_MB","type":0,"api":"https://bljiex.com/api.php/provide/vod/at/xml","playUrl":"https://vip.bljiex.com/?v=","categories":[]},
 {"key":"若惜影视","name":"若惜影视_M","type":0,"api":"https://vip.ruoxinew.com/api.php/provide/vod/at/xml/","playUrl":"https://www.ckplayer.vip/jiexi/?url=","categories":[]},
