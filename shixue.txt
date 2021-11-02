@@ -7,7 +7,7 @@
 {"key":"csp_xpath_duboku","name":"独播库(XPath)硬","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"},
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "奈菲迷","name": "奈菲迷（个人免费站长优惠）","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "奈菲迷","name": "奈菲迷（个人免费站长优惠）","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nfx","name": "NFXHD(爬虫)","type": 3,"api": "csp_Nfx","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"csp_EPangApp","name":"阿房影视App","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
