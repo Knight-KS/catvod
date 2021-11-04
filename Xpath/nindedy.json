@@ -18,7 +18,7 @@
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/show/(\\w+).html",
-  "cateVodImg": "/@data-original",
+  "cateVodImg": "/img/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//p[contains(@class,'other')]/text()",
   "dtUrl": "http://www.nindedy.com/show/{vid}.html",
