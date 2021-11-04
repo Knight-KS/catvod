@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "http://www.nindedy.com",
-  "cateNode": "//ul[contains(@class,'top-nav')]//li/a[contains(@href, 'category') and not(contains(@href,'label'))]",
+  "cateNode": "//ul[contains(@class,'top-nav')]//li/a[contains(@href, 'category')]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/category/(\\S+).html",
