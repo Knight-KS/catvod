@@ -5,14 +5,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/category/(\\S+).html",
-  "cateManual": {
-    "电影": "dianying",
-		"国产剧": "guochanju",
-		"综港剧艺": "gangju",
-		"动漫日剧": "riju",
-		"韩剧": "hanju"
-    "欧美剧": "oumeiju"
-  },
+  "cateManual": {},
   "homeVodNode": "//li[contains(@class,'p2 m1')]/a[contains(@class,'link-hover')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
