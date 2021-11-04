@@ -3,7 +3,7 @@
   "homeUrl": "http://www.nindedy.com",
   "cateNode": "//ul[contains(@class,'top-nav')]//li/a[contains(@href, 'category') and not(contains(@href,'label'))]",
   "cateName": "/text()",
-  "cateId": "/a/@href",
+  "cateId": "/@href",
   "cateIdR": "/category/(\\S+).html",
   "cateManual": {},
   "homeVodNode": "//li[contains(@class,'p2 m1')]/a[contains(@class,'link-hover')]",
