@@ -50,7 +50,7 @@
   "dtUrlIdR": "/play/(\\S+)",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "http://www.nindedy.com/play/{playUrl}",
+  "playUrl": "http://www.nindedy.com/play/{playUrl}.html",
   "playUa": "",
   "searchUrl": "http://www.nindedy.com/search.php?searchword={wd}&limit=10",
   "scVodNode": "//div[contains(@class,'index-area')]//li[@class='p1 m1']",
