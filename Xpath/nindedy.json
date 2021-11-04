@@ -44,7 +44,7 @@
   "dtFromNode": "//li[contains(@id,'tab81') and contains(@class,'on')]",
   "dtFromName": "/text()",
   "dtFromNameR": "",
-  "dtUrlNode": "//div[contains(@class,'videourl clearfix')] and contains(@id, 'vlink')]",
+  "dtUrlNode": "//div[contains(@class,'videourl clearfix') and contains(@id, 'vlink')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+).html",
