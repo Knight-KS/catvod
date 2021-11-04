@@ -14,7 +14,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//p[contains(@class,'other')]/text()",
   "cateUrl": "http://www.nindedy.com/category/{cateId}/",
-  "cateVodNode": "//li[contains(@class,'p2 m1')]/a[contains(@class,'link-hover')]",
+  "cateVodNode": "//li[contains(@class,'p1 m1')]/a[contains(@class,'link-hover')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/show/(\\w+).html",
