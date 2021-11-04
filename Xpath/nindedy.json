@@ -47,7 +47,7 @@
   "dtUrlNode": "//div[contains(@class,'videourl clearfix') and contains(@id, 'vlink')]",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/play/(\\S+)",
+  "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "http://www.nindedy.com/play/{playUrl}.html",
