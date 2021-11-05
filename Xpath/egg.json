@@ -5,7 +5,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/(\\S+)/",
-  "cateManual": {"日本电影": "dianying/-日本---.html","日本电视剧": "dianshiju/-日本---.html"},
+  "cateManual": {"电影": "dianying/","日本电影": "dianying/-日本---.html","电视剧": "dianshiju/","日本电视剧": "dianshiju/-日本---.html","动漫": "dongman/","综艺": "zongyi/"},
   "homeVodNode": "//div[contains(@class,'lists-thumb-top') and @id='slider']//div[@class='lists-content']/ul/li",
   "homeVodName": "/h2/a/text()",
   "homeVodId": "/h2/a/@href",
