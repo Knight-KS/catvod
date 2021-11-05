@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://www.nfuxs.com/",
-  "cateManual": {"电影": "1","日本": "1-日本","大陆": "1-大陆","连续剧": "2","大陆": "2-大陆","日本": "2-日本","英国": "2-英国","美国": "2-美国","动漫": "4","综艺": "3"},
+  "cateManual": {"电影": "1","连续剧": "2","动漫": "4","综艺": "3"},
   "homeVodNode": "//div[@class='module-item-pic']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
