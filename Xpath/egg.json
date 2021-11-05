@@ -12,7 +12,7 @@
   "homeVodIdR": "/(\\S+).html",
   "homeVodImg": "/a/img/@src",
   "homeVodMark": "/a/div[@class='note']/span/text()",
-  "cateUrl": "https://www.dandanzan.cc/{cateId}---{catePg}-.html",
+  "cateUrl": "https://www.dandanzan.cc/{cateId}/---{catePg}-.html",
   "cateVodNode": "//div[@class='lists-content']/ul/li",
   "cateVodName": "/h2/a/text()",
   "cateVodId": "/h2/a/@href",
