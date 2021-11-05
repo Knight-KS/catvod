@@ -18,7 +18,6 @@
 {"key":"csp_Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Djx","name":"瓜皮TV(爬虫)","type":3,"api":"csp_Djx","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xpath_nfuxs","name":"南府影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable": 0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/nfuxs.json"},
 {"key":"csp_xpath_miniku","name":"Miniku(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"},
 {"key":"csp_xpath_pianba","name":"Pianba(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"},
 {"key":"csp_xpath_Ole","name":"欧乐影院(EXO)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/olevod.json"},
