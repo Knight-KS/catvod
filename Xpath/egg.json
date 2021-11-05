@@ -5,7 +5,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/(\\S+)/",
-  "cateManual": {},
+  "cateManual": {"日本电影": "/dianying/-日本---.html","日本电影": "/dianshiju/-日本---.html"},
   "homeVodNode": "//div[contains(@class,'lists-thumb-top') and @id='slider']//div[@class='lists-content']/ul/li",
   "homeVodName": "/h2/a/text()",
   "homeVodId": "/h2/a/@href",
