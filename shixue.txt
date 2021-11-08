@@ -8,7 +8,6 @@
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "奈菲迷2","name": "奈菲迷2","type": 1,"api": "https://vip.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nfx","name": "NFXHD(爬虫)","type": 3,"api": "csp_Nfx","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Cokemv","name":"Coke(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
