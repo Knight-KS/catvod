@@ -26,7 +26,6 @@
 {"key": "csp_xpath_gimy","name": "GimyTV(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
 {"key": "csp_xpath_4kyu","name": "一只鱼4K(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/lite-cucumber/CatVodTVSpider/raw/master/xpath/4kyu.json"},
 {"key":"csp_xpath_555","name":"555电影(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/555.json"},
-{"key":"csp_xpath_Nfuxs","name":"南府(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/nfuxs.json"},
 {"key":"csp_xpath_cjt","name":"CJT影视(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/cjtys.json"},
 {"key":"csp_xpath_jpyszl","name":"极品(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jpys.json"},
 {"key":"csp_xpath_jumi","name":"剧迷(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jumi.json"},
