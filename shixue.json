@@ -4,7 +4,7 @@
 {"key":"csp_Ysgc","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_egg","name":"蛋蛋影院(XPath)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/egg.json"},
-{"key":"csp_xpath_duboku","name":"独播库(XPath)硬","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"},
+{"key":"csp_xpath_duboku","name":"独播库(XPath)硬","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku.json"},
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","searchable":1,"quickSearch":1,"filterable":0},
