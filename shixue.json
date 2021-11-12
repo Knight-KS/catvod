@@ -50,7 +50,7 @@
 {"key":"csp_xpath_newfli","name":"newfli(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/newfli.json"},
 {"key":"csp_xpath_libvio","name":"libvio(XPath)","type":3,"api": "csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/tzhlzt/mo/raw/master/wain/libvio.json"},
 
-
+{"key":"听乐资源","name":"听乐资源","type":1,"api":"http://zx.dj6u.com/api.php/provide/vod/at/xml/","playUrl":"http://api.dj6u.com/?url=","quickSearch":1,"searchable":1,"filterable":1},
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod"},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://dp.8b5q.cn/dplayer/?url=","searchable":1,"filterable":1},
 {"key":"BL影视","name":"BL影视_MB","type":0,"api":"https://bljiex.com/api.php/provide/vod/at/xml","playUrl":"https://vip.bljiex.com/?v=","categories":[]},
@@ -180,15 +180,16 @@
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 
 {"name":"高清解析1","type":0,"url":["https://jx.mmkv.cn/tv.php?url="]},
-{"name":"高清解析2","type":0,"url":["https://www.ckmov.vip/api.php?url="]},
+{"name":"高清解析2","type":0,"url":["https://4kyu.cc/xplay/?url="]},
 {"name":"高清解析3","type":0,"url":["https://jx.xmflv.com/?url="]},
-{"name":"高清解析4","type":0,"url":["https://www.h8jx.com/jiexi.php?url="]},
 {"name":"高清解析5","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
 {"name":"高清解析6","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 {"name":"高清解析7","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"高清解析8","type":0,"url":["https://okjx.cc?url="]},
+{"name":"高清解析02","type":0,"url":["https://www.ckmov.vip/api.php?url="]},
+{"name":"高清解析04","type":0,"url":["https://www.h8jx.com/jiexi.php?url="]},
+
 {"name":"json解析1","type":1,"url":"https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="},
-{"name":"json解析2","type":1,"url":"http://user.lkflv.com/analysis/json/?uid=38&my=acdklnzBDEHJNPSU69&url="},
 {"name":"json解析3","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},
 {"name":"json解析4","type":1,"url":"https://api.shengqiankuaitao.cn/api/?key=I7iOCx9465knkzUo5H&url="},
 {"name":"json解析5","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="},
@@ -196,7 +197,8 @@
 {"name":"json解析7","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="},
 {"name":"json解析8","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="},
 {"name":"json解析9","type":1,"url":"http://cache.languang.icu:88/didi.php?url="},
-{"name":"json解析10","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="}
+{"name":"json解析10","type":1,"url":"http://admin.vodjx.top/json.php?url="},
+{"name":"json解析02","type":1,"url":"http://user.lkflv.com/analysis/json/?uid=38&my=acdklnzBDEHJNPSU69&url="}
 
 ],
  
