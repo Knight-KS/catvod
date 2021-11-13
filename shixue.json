@@ -9,7 +9,7 @@
 
 {"key":"csp_Ysgc","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1,"categories":["電影","動作片","喜劇片","愛情片","科幻片","恐怖片","劇情片","戰爭片","紀錄片","微電影","動漫片","大陸劇","港劇","日劇","韓劇","美劇","電視劇","綜藝","動漫"]},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nfx","name":"NFXHD(爬虫)","type":3,"api":"csp_Nfx","searchable":1,"quickSearch":1,"filterable":1},
