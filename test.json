@@ -19,7 +19,7 @@
 {"key":"lehoo资源","name":"lehoo资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://www.omofun.com/api.php/provide/vod/","categories":["动漫","剧场版","国产","欧美"],"playUrl":"https://jx.renrenmi.cc/?url="},
-{"key":"One影视","name":"One影视","type":0,"api":"http://www.onedianshi.com/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
+{"key":"One影视","name":"One影视","type":0,"api":"http://www.onedianshi.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"w7tv","name":"w7tv","type":1,"api":"http://w7tv.com/api.php/provide/vod/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"YT影视","name":"YT影视","type":1,"api":"http://ytys.cc/api.php/provide/vod/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
@@ -63,7 +63,7 @@
 {"key":"爱看1080","name":"爱看1080","type":0,"api":"http://www.ik1080.com/api.php/provide/vod/at/xml/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"爱看啦","name":"爱看啦","type":1,"api":"http://v.aik.la/api.php/provide/vod/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"片库网","name":"片库网","type":1,"api":"https://pianku.wang/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
-{"key":"瓜皮影视","name":"瓜皮影视","type":1,"api":"https://www.dijiaxia.com/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
+{"key":"瓜皮影视","name":"瓜皮影视","type":1,"api":"https://www.dijiaxia.com/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://dmku.dijiaxia.com/?url="},
 {"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://fqzy.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://dp.8b5q.cn/dplayer/?url="},
 {"key":"白熊影院","name":"白熊影院","type":1,"api":"https://www.bxyy5.com/api.php/provide/vod/","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
@@ -164,10 +164,10 @@
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 
-{"name":"高清解析1","type":0,"url":["https://jx.mmkv.cn/tv.php?url="]},
+{"name":"高清解析11","type":0,"url":["https://jx.mmkv.cn/tv.php?url="]},
 {"name":"高清解析2","type":0,"url":["https://4kyu.cc/xplay/?url="]},
 {"name":"高清解析3","type":0,"url":["https://jx.xmflv.com/?url="]},
-{"name":"高清解析5","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
+{"name":"高清解析51","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
 {"name":"高清解析6","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 {"name":"高清解析7","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"高清解析8","type":0,"url":["https://okjx.cc?url="]},
@@ -176,14 +176,13 @@
 
 {"name":"json解析1","type":1,"url":"https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="},
 {"name":"json解析3","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},
-{"name":"json解析4","type":1,"url":"https://api.shengqiankuaitao.cn/api/?key=I7iOCx9465knkzUo5H&url="},
-{"name":"json解析5","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="},
+{"name":"json解析41","type":1,"url":"https://api.shengqiankuaitao.cn/api/?key=I7iOCx9465knkzUo5H&url="},
+{"name":"json解析512","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="},
 {"name":"json解析6","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url="},
-{"name":"json解析7","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="},
-{"name":"json解析8","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="},
-{"name":"json解析9","type":1,"url":"http://cache.languang.icu:88/didi.php?url="},
+{"name":"json解析711","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="},
+{"name":"json解析81","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="},
 {"name":"json解析10","type":1,"url":"http://admin.vodjx.top/json.php?url="},
-{"name":"json解析02","type":1,"url":"http://user.lkflv.com/analysis/json/?uid=38&my=acdklnzBDEHJNPSU69&url="}
+{"name":"json解析211","type":1,"url":"http://user.lkflv.com/analysis/json/?uid=38&my=acdklnzBDEHJNPSU69&url="}
 
 
 ],
