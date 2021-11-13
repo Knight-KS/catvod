@@ -3,7 +3,7 @@
   "sites": [
 
 {"key":"csp_xpath_egg","name":"蛋蛋影院(XPath)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/egg.json"},
-{"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","其他剧","东南亚综艺","日韩综艺","欧美综艺","动漫"]},
+{"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","其他剧","东南亚综艺","日韩综艺","欧美综艺","动漫"]},
 {"key":"csp_xpath_lezhutv","name":"乐猪(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/lezhutv.json"},
 
 
