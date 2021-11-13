@@ -15,7 +15,6 @@
 
 {"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":[]},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
-{"key":"csp_xpath_duboku2","name":"独播库(系统播放器)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/duboku2.json" }
 
 
   ],
