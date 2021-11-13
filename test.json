@@ -22,7 +22,7 @@
 {"key":"三零资源","name":"三零资源","type":1,"api":"http://api.000zy.com/provide/vod/","categories":[],"playUrl":"https://jx.3jx.net/?url="},
 {"key":"不开资源","name":"不开资源","type":0,"api":"http://c.bukai.men/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
 {"key":"乐多资源1","name":"乐多资源1","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
-{"key":"乐多资源2","name":"乐多资源2","type":0,"api":"http://api.leduosj.com/inc/api.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
+{"key":"乐多资源2","name":"乐多资源2","type":0,"api":"http://api.leduosj.com/inc/api.php","categories":[],"playUrl":""},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"任我云资源","name":"任我云资源","type":0,"api":"https://www.renwoyun.cn/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jiexi.linzhiyuan.xyz/jiexi/?url="},
 {"key":"优剧资源","name":"优剧资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","categories":[],"playUrl":""},
