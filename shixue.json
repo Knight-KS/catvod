@@ -10,8 +10,8 @@
 {"key":"csp_Cokemv","name":"Coke(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xpath_egg","name":"蛋蛋影院(XPath)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/egg.json"},
-{"key":"csp_xpath_jpyszl","name":"极品(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jpys.json"},
-{"key":"csp_xpath_jumi","name":"剧迷(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jumi.json"},
+{"key":"csp_xpath_jpyszl","name":"极品(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jpys.json"},
+{"key":"csp_xpath_jumi","name":"剧迷(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jumi.json"},
 
 
 
