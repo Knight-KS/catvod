@@ -18,8 +18,8 @@
 {"key":"csp_xpath_555","name":"555(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/555.json"},
 
 
-{"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":["电影","连续剧","综艺","动作片","喜剧片","国产剧","港台剧","日韩剧","欧美剧","犯罪片","纪录片"]}
-
+{"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":[]},
+{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "https://svip.naifeimi.com/jx/?url=","categories":[]}
 
   ],
   "lives": [
