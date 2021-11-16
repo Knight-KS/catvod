@@ -19,7 +19,7 @@
 
 
 {"key": "奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":[]},
-{"key": "UVN.INK影视","name": "UVN.INK影视","type": 0,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":[]}
+{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "https://svip.naifeimi.com/nfm/?url=","categories":[]}
 
   ],
   "lives": [
