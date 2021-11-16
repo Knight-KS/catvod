@@ -9,7 +9,7 @@
 	"cateNode": "//div[contains(@class, 'homepage_main_tabs_title')]///a[contains(@href, 'vodshow')]",
 	"cateName": "/text()",
 	"cateId": "/@href",
-	"cateIdR": "/vodshow/(\\S+)-----------.html",
+	"cateIdR": "/vodshow/(\\S+).html",
 	"cateManual": {},
 	"homeVodNode": "//ul[contains(@class, 'pack-ykpack')]/li/div[contains(@class, 'pack-packcover')]",
 	"homeVodName": "/a/@title",
