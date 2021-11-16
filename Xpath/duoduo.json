@@ -6,7 +6,7 @@
  	"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
  	"dcShow2Vip": {},
  	"dcPlayUrl": "true",
-	"cateNode": "//img[contains(@class, 'homepage_logo')]/a[contains(@class, 'aplus_clk')]",
+	"cateNode": "//div[contains(@class, 'homepage_main_tabs_title')]/a[contains(@class, 'aplus_clk')]",
 	"cateName": "/text()",
 	"cateId": "/@href",
 	"cateIdR": "/vodshow/(\\S+).html",
