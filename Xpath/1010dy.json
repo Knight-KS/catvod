@@ -1,6 +1,11 @@
 {
   "ua": "",
   "homeUrl": "https://www.1010dy.cc/",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://www.1010dy.cc/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class, 'stui-header__menu')]/li[@class='active']/a[contains(@href, 'type')]",
   "cateName": "/text()",
   "cateId": "/@href",
