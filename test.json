@@ -2,7 +2,7 @@
   "spider": "https://gitlab.com/lohshixue/OriginalCat/-/raw/master/jar/custom_spider.jar?",
   "sites": [
 
-{"key":"csp_xpath_1010","name":"1010(XPathMac)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/1010dy.json"},
+{"key":"csp_xpath_1010","name":"1010(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/1010dy.json"},
 {"key":"csp_xpath_98net","name":"98(XPathMac)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/98net.json"}
 
   ],
