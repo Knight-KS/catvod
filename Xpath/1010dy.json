@@ -51,10 +51,10 @@
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/play/(\\S+)/",
+  "dtUrlIdR": "",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.1010dy.cc/play/{playUrl}/"
+  "playUrl": "https://www.1010dy.cc/{playUrl}"
   "playUa": "",
   "searchUrl": "https://www.1010dy.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
