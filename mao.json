@@ -18,7 +18,8 @@
 {"key":"csp_Zjdr","name":"追剧达人(爬虫)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Djx","name":"瓜皮TV(爬虫)","type":3,"api":"csp_Djx","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xpath_duoduo","name":"多多(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duoduo.json"},
+{"key":"csp_xpath_1010dy","name":"1010dy(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/1010dy.json"},
+{"key":"csp_xpath_duoduo","name":"多多(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/dd520.json"},
 {"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/axx.json"},
 {"key":"csp_xpath_duboku","name":"独播库(XPath)硬","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/duboku.json"},
 {"key": "csp_xpath_gimy","name": "GimyTV(XPathMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/gimytv.json"},
