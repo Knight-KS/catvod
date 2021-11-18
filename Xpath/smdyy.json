@@ -15,7 +15,7 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/kan/(\\w+).html",
-  "homeVodImg": "/@data-src",
+  "homeVodImg": "/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[contains(@class,'module-item-text')]/text()",
   "cateUrl": "https://www.smdyy.cc/list/{cateId}-{catePg}.html",
