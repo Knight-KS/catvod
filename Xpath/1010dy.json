@@ -46,7 +46,7 @@
   "dtMarkR": "",
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtFromNode": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '类型')]",
-  "dtFromName": "[substring-before(text(),'(')]",
+  "dtFromName": "/text()",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
