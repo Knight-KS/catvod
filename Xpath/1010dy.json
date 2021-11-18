@@ -47,7 +47,7 @@
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[@class='stui-pannel_hd']//h3[contains (@class,'title')]",
-  "dtFromName": "/following-sibling::img/text()",
+  "dtFromName": "/following-sibling::*/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
   "dtUrlSubNode": "//li/a",
