@@ -3,7 +3,7 @@
   "sites": [
 
 {"key":"csp_xpath_duoduo","name":"多多(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/1010dy.json"},
-{"key":"csp_xpath_98sm","name":"98(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/98sm.json"}
+{"key":"csp_xpath_98sm","name":"98(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/lohshixue/catvod/-/raw/main/Xpath/98net.json"}
 
   ],
   "lives": [
