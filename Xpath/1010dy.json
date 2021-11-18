@@ -44,7 +44,7 @@
   "dtActorR": "",
   "dtDirector": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
   "dtDirectorR": "",
-   "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
+  "dtFromNode": "//h3[@class='title']",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
