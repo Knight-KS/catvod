@@ -11,7 +11,7 @@
   "cateId": "/@href",
   "cateIdR": "/list/(\\d+).html",
   "cateManual":{},
-  "homeVodNode": "//div[contains(@class,'module-items')]//div[contains(@class,'module-item-pic')]/a",
+  "homeVodNode": "//div[contains(@class,'module-items')]//div[contains(@class,'module-item-pic')]/a[contains(@class,'lazyload')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/kan/(\\w+).html",
