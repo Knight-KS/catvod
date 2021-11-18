@@ -46,7 +46,7 @@
   "dtMarkR": "",
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='stui-pannel_hd']//h3[contains (@class,'title')]",
+  "dtFromNode": "",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
