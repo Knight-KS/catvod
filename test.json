@@ -87,6 +87,8 @@
 {"name":"高清解析5","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 {"name":"高清解析6","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"高清解析7","type":0,"url":["https://okjx.cc?url="]},
+{"name":"test","type":0,"url":["https://blong.cjt521.com//?url="]},
+
 
 {"name":"json解析1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="},
 {"name":"json解析2","type":1,"url":"https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="},
