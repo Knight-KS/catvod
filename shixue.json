@@ -88,15 +88,19 @@
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 
 {"name":"高清解析1","type":0,"url":["https://jx.ysgc.xyz/?url="]},
-{"name":"高清解析2","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
-{"name":"高清解析3","type":0,"url":["https://4kyu.cc/xplay/?url="]},
-{"name":"高清解析4","type":0,"url":["https://jx.xmflv.com/?url="]},
-{"name":"高清解析5","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
-{"name":"高清解析6","type":0,"url":["https://qimihe.com/?url="]},
-{"name":"高清解析7","type":0,"url":["https://okjx.cc?url="]},
-{"name":"高清解析8","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
-{"name":"高清解析9","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
-{"name":"高清解析10","type":0,"url":["https://play.xkys.tv/jiexi.php?url="]},
+{"name":"高清解析2","type":0,"url":["https://jhpc.manduhu.com/?url="]},
+{"name":"高清解析3","type":0,"url":["https://jx.quanmingjiexi.com/?url="]},
+{"name":"高清解析4","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
+{"name":"高清解析5","type":0,"url":["https://4kyu.cc/xplay/?url="]},
+{"name":"高清解析6","type":0,"url":["https://jx.xmflv.com/?url="]},
+{"name":"高清解析7","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
+{"name":"高清解析8","type":0,"url":["https://qimihe.com/?url="]},
+{"name":"高清解析9","type":0,"url":["https://okjx.cc?url="]},
+{"name":"高清解析10","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
+{"name":"高清解析11","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
+{"name":"高清解析12","type":0,"url":["https://play.xkys.tv/jiexi.php?url="]},
+
+
 
 
 {"name":"json解析1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="},
