@@ -75,6 +75,7 @@
 {"name":"TVB翡翠","urls":["http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"]}]
 }
   ],
+ 
  "parses":[
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
