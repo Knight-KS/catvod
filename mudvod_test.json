@@ -52,7 +52,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.1010dy.cc/play/{playUrl}/",
   "playUa": "",
-  "searchUrl": "https://www.1010dy.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.mudvod.tv/search.html?keyword={wd}&catId=1&keyword_type=0&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
