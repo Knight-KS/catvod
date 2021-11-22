@@ -33,7 +33,7 @@
   "dtAreaR": "",
   "dtYear": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/[substring-before(text(),'(')]",
   "dtYearR": "",
-  "dtActor": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/[substring-before(text(),'(')]",
+  "dtActor": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/[substring-before(text(),'(')]",
   "dtActorR": "",
   "dtDirector": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/[substring-before(text(),'(')]",
   "dtDirectorR": "",
