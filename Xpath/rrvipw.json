@@ -39,7 +39,7 @@
   "dtDirectorR": "",
   "dtMark": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(., '更新')]/parent::*/text()",
   "dtMarkR": "",
-  "dtDesc": "//p[@class='col-pd']/text()",
+  "dtDesc": "//p[@class='col-pd']text()",
   "dtDescR": "",
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
   "dtFromName": "/text()",
