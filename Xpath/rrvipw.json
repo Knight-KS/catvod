@@ -27,7 +27,7 @@
   "dtNameR": "",
   "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
   "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(.,'类型')]/following-sibling::*/text()",
+  "dtCate": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(.,'类型：')]/following-sibling::*/text()",
   "dtCateR": "",
   "dtArea": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(., '地区')]/following-sibling::*/text()",
   "dtAreaR": "",
