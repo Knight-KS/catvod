@@ -10,28 +10,34 @@
 {"key": "kb","name": "快播云","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kk","name": "看看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
-
-{"key":"0号资源","name":"0号资源","type":0,"api":"http://api.000zy.com/provide/vod/at/xml/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
-{"key":"2A资源","name":"2A资源","type":0,"api":"http://zy.zcocc.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"348电影","name":"348电影","type":0,"api":"https://348z.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"39影视","name":"39影视","type":0,"api":"https://www.39kan.com/api.php/provide/vod/at/xml/","categories":[],"playUrl":""},
-{"key":"4K影院","name":"4K影院","type": 0,"api":"http://www.dijiaxia.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"605资源","name":"605资源","type":0,"api":"http://www.605zy.co/inc/api.php","categories":[],"playUrl":""},
-{"key":"77影院","name":"77影院","type":0,"api":"http://kunyu77.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","categories":[],"playUrl":""},
-{"key":"88资源","name":"88资源","type":0,"api":"http://www.88zy.live/inc/api.php","categories":[],"playUrl":""},
-{"key":"BL影视","name":"BL影视B","type":0,"api":"https://bljiex.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"KK看剧","name":"KK看剧","type":0,"api":"http://www.kkkanju.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"lehoo资源","name":"lehoo资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://www.omofun.com/api.php/provide/vod/","categories":["动漫","剧场版","国产","欧美"],"playUrl":""},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
+{"key":"4K影院","name":"4K影院(无广告）","type": 0,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
+
+{"key":"0号资源","name":"0号资源","type":0,"api":"http://api.000zy.com/provide/vod/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
+{"key":"2A资源","name":"2A资源","type":0,"api":"http://zy.zcocc.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"348电影","name":"348电影","type":0,"api":"https://348z.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"39影视","name":"39影视","type":0,"api":"https://www.39kan.com/api.php/provide/vod/","categories":[],"playUrl":""},
+
+
+{"key":"605资源","name":"605资源","type":0,"api":"http://www.605zy.co/inc/api.php","categories":[],"playUrl":""},
+{"key":"88资源","name":"88资源","type":0,"api":"http://www.88zy.live/inc/api.php","categories":[],"playUrl":""},
+{"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
+{"key":"乐多资源1","name":"乐多资源1","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
+{"key":"乐多资源2","name":"乐多资源2","type":0,"api":"http://api.leduosj.com/inc/api.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
+
+
+{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"BL影视","name":"BL影视B","type":0,"api":"https://bljiex.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"KK看剧","name":"KK看剧","type":0,"api":"http://www.kkkanju.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"lehoo资源","name":"lehoo资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/","categories":[],"playUrl":""},
+,
+{"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://www.omofun.com/api.php/provide/vod/","categories":["动漫","剧场版","国产","欧美"],"playUrl":""},
+
 {"key":"w7tv","name":"w7tv","type":1,"api":"http://w7tv.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"YT影视","name":"YT影视","type":1,"api":"http://ytys.cc/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"三零资源","name":"三零资源","type":1,"api":"http://api.000zy.com/provide/vod/","categories":[],"playUrl":"https://jx.3jx.net/?url="},
-{"key":"不开资源","name":"不开资源","type":0,"api":"http://c.bukai.men/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
-{"key":"乐多资源1","name":"乐多资源1","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
-{"key":"乐多资源2","name":"乐多资源2","type":0,"api":"http://api.leduosj.com/inc/api.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
+{"key":"不开资源","name":"不开资源","type":0,"api":"http://c.bukai.men/api.php/provide/vod/","categories":[],"playUrl":""},
+
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"任我云资源","name":"任我云资源","type":0,"api":"https://www.renwoyun.cn/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jiexi.linzhiyuan.xyz/jiexi/?url="},
 {"key":"优剧资源","name":"优剧资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","categories":[],"playUrl":""},
