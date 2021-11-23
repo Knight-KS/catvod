@@ -12,7 +12,8 @@
     "filterable": 0
     },
 {"key":"csp_xpath_1010dy","name":"mini(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/miniku.json"},
-{"key":"csp_xpath_rr","name":"cc(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/cctv-68.json"}
+{"key":"csp_xpath_rr","name":"cc(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/cctv-68.json"},
+{"key":"csp_xpath_rr","name":"rr(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/rrvipw.json"}
 
   ],
   "lives": [
