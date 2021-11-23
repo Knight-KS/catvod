@@ -15,7 +15,7 @@
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
 {"key": "abc","name": "abc","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/at/xml/","playUrl": "","categories":[]},
-{"key": "tp","name": "tp","type": 1,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml","playUrl": "","categories":[]},
+{"key": "tp","name": "tp","type": 1,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/json?ac=list","playUrl": "","categories":[]},
 {"key": "wer","name": "wer","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "","categories":[]}
 
   ],
