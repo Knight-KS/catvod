@@ -89,19 +89,18 @@
 
 {"name":"ysgc","type":0,"url":["https://jx.ysgc.xyz/?url="]},
 {"name":"555","type":0,"url":["https://jhpc.manduhu.com/?url="]},
+{"name":"duoduzy","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
+{"name":"naifeimi","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
+{"name":"xkys","type":0,"url":["https://play.xkys.tv/jiexi.php?url="]},
+{"name":"renren","type":0,"url":["https://jx.renrenmi.cc/?url="]},
+{"name":"rrvip","type":0,"url":["https://web.jiexi.work/777/?url="]},
 {"name":"高清解析3","type":0,"url":["https://jx.quanmingjiexi.com/?url="]},
 {"name":"高清解析4","type":0,"url":["https://dmku.dijiaxia.com/?url="]},
 {"name":"高清解析5","type":0,"url":["https://jx.parwix.com:4433/player/?url="]},
 {"name":"高清解析6","type":0,"url":["https://jx.xmflv.com/?url="]},
 {"name":"高清解析7","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 {"name":"高清解析8","type":0,"url":["https://qimihe.com/?url="]},
-{"name":"高清解析9","type":0,"url":["https://cokemv.me//player/?url="]},
-{"name":"duoduzy","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
-{"name":"naifeimi","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
-{"name":"xkys","type":0,"url":["https://play.xkys.tv/jiexi.php?url="]},
-{"name":"renren","type":0,"url":["https://jx.renrenmi.cc/?url="]},
-{"name":"rrvip","type":0,"url":["https://web.jiexi.work/777/?url="]},
-
+{"name":"高清解析9","type":0,"url":["https://cokemv.me/player/?url="]},
 
 
 {"name":"json解析1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="},
@@ -118,7 +117,7 @@
 
 ],
 
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","duoduozy","789pan"],
+  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","duoduozy","789pan","renrenmi"],
  
   "ijk": [
     {
