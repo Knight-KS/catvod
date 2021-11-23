@@ -21,10 +21,9 @@
 {"key": "hn","name": "hn","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php","playUrl": "","categories":[]},
 {"key": "bd","name": "bd","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kb","name": "kb","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "tt","name": "tt","type": 1,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kk","name": "kk","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "88","name": "88","type": 1,"api": "http://www.88zy.live/inc/m3u8.php","playUrl": "","categories":[]}
+
 
 
 
