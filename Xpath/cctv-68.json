@@ -45,7 +45,7 @@
  "dtUrlIdR": "/vodplay/(\\S+)/",
  "dtUrlName": "/span/text()",
  "playUrl": "https://www.cctv-68.com/vodplay/{playUrl}.html",
- "searchUrl": "https://www.cctv-68.com/vodsearch/-------------.html?wd={wd}",
+ "searchUrl": "https://www.cctv-68.com/vodsearch/-------------.html?wd={wd}&limit=10",
  "scVodNode": "//div[@class='module-list']",
  "scVodName": "//a/@alt",
  "scVodId": "/a/@href",
