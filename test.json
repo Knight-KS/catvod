@@ -14,15 +14,15 @@
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/Tangsan99999/-/raw/main/xpath/miniku.json"},
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
-{"key": "abc","name": "bd","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "wer","name": "fq","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
-{"key": "wj","name": "wj","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "tk","name": "tk","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "hn","name": "hn","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php","playUrl": "","categories":[]},
-{"key": "bd","name": "bd","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "kb","name": "kb","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "bd","name": "北斗","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
+{"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "tk","name": "天空","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "hn","name": "红牛","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php","playUrl": "","categories":[]},
+{"key": "bd","name": "百度云","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "kb","name": "快播云","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "kk","name": "kk","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
+{"key": "kk","name": "看看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
 
 
 
