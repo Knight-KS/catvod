@@ -11,10 +11,9 @@
     "quickSearch": 0,
     "filterable": 0
     },
-{"key":"csp_xpath_1010dy","name":"mini(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/miniku.json"},
-{"key":"csp_xpath_rr","name":"cc(XPathMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/smdyy.json"}
+{"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/miniku.json"},
 
-
+{"key": "xml","name": "xml","type": 1,"api": "https://taopianapi.com/home/cjapi/as/sea/vod/xml/iframe","playUrl": "","categories":[]}
   ],
   "lives": [
     {
