@@ -1,0 +1,216 @@
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/321456/321456/6694
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/624850/624850/6694
+Animal Planet,http://iptv.tvmalaysia.cc:80/624850/624850/7077
+Animal Planet,http://iptv.tvmalaysia.cc:80/321456/321456/7077
+Animax,http://iptv.tvmalaysia.cc:80/624850/624850/6696
+Arena 2,http://iptv.tvmalaysia.cc:80/624850/624850/9028
+Arena 2,http://iptv.tvmalaysia.cc:80/321456/321456/9028
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/624850/624850/6693
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/321456/321456/6693
+ASSP 1,http://iptv.tvmalaysia.cc:80/624850/624850/9024
+ASSP 1,http://iptv.tvmalaysia.cc:80/321456/321456/9024
+ASSP 2,http://iptv.tvmalaysia.cc:80/624850/624850/9025
+ASSP 2,http://iptv.tvmalaysia.cc:80/321456/321456/9025
+ASSP 3 (LIVE EPL ONLY),http://iptv.tvmalaysia.cc:80/624850/624850/9020
+ASSP 3 (LIVE EPL ONLY),http://iptv.tvmalaysia.cc:80/321456/321456/9020
+ASSP 4,http://iptv.tvmalaysia.cc:80/624850/624850/9026
+ASSP 4,http://iptv.tvmalaysia.cc:80/321456/321456/9026
+ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6702
+ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6702
+ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6704
+ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6706
+ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6706
+ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/321456/321456/6713
+ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/624850/624850/6713
+ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/624850/624850/6714
+ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/321456/321456/6714
+Astro Boo,http://iptv.tvmalaysia.cc:80/321456/321456/8872
+Astro Boo,http://iptv.tvmalaysia.cc:80/624850/624850/8872
+ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6715
+ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/321456/321456/6715
+Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/624850/624850/7267
+Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/321456/321456/7267
+ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/321456/321456/6716
+ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/624850/624850/6716
+ASTRO Cricket,http://iptv.tvmalaysia.cc:80/321456/321456/6717
+ASTRO Cricket,http://iptv.tvmalaysia.cc:80/624850/624850/6717
+ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/624850/624850/6724
+ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/321456/321456/6724
+ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/321456/321456/6725
+ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/624850/624850/6725
+ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/321456/321456/6727
+ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/624850/624850/6727
+ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/321456/321456/6729
+ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/624850/624850/6729
+ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/321456/321456/6730
+ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/624850/624850/6730
+ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/321456/321456/6732
+ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/624850/624850/6732
+ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/624850/624850/6733
+ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/321456/321456/6733
+ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6710
+ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6710
+ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6711
+ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6711
+Astro Supersport 5,http://iptv.tvmalaysia.cc:80/624850/624850/9029
+Astro Supersport 5,http://iptv.tvmalaysia.cc:80/321456/321456/9029
+ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/321456/321456/6708
+ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/624850/624850/6708
+ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6738
+ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/321456/321456/6738
+ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/321456/321456/6742
+ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/624850/624850/6742
+Awesome TV,http://iptv.tvmalaysia.cc:80/624850/624850/9016
+Awesome TV,http://iptv.tvmalaysia.cc:80/321456/321456/9016
+AXN,http://iptv.tvmalaysia.cc:80/624850/624850/7223
+AXN,http://iptv.tvmalaysia.cc:80/321456/321456/7223
+beIN MAX,http://iptv.tvmalaysia.cc:80/321456/321456/6748
+beIN MAX,http://iptv.tvmalaysia.cc:80/624850/624850/6748
+beIN MAX 2,http://iptv.tvmalaysia.cc:80/624850/624850/7195
+beIN MAX 2,http://iptv.tvmalaysia.cc:80/321456/321456/7195
+Bernama News,http://iptv.tvmalaysia.cc:80/321456/321456/6750
+Bloomberg TV,http://iptv.tvmalaysia.cc:80/624850/624850/6751
+Bloomberg TV,http://iptv.tvmalaysia.cc:80/321456/321456/6751
+Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/321456/321456/8861
+Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/624850/624850/8861
+BollyOne HD,http://iptv.tvmalaysia.cc:80/321456/321456/6754
+Boomerang,http://iptv.tvmalaysia.cc:80/321456/321456/7199
+Boomerang,http://iptv.tvmalaysia.cc:80/624850/624850/7199
+BT Sport 1,http://iptv.tvmalaysia.cc:80/321456/321456/6610
+BT Sport 2,http://iptv.tvmalaysia.cc:80/321456/321456/6611
+BT Sport 2,http://iptv.tvmalaysia.cc:80/624850/624850/6611
+BT Sport 3,http://iptv.tvmalaysia.cc:80/321456/321456/6612
+BT Sport 3,http://iptv.tvmalaysia.cc:80/624850/624850/6612
+Cartoon Network HD,http://iptv.tvmalaysia.cc:80/321456/321456/6757
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/321456/321456/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/624850/624850/7222
+Celestial Movies,http://iptv.tvmalaysia.cc:80/624850/624850/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/321456/321456/7235
+Chutti TV,http://iptv.tvmalaysia.cc:80/624850/624850/6762
+Chutti TV,http://iptv.tvmalaysia.cc:80/321456/321456/6762
+Cinema World,http://iptv.tvmalaysia.cc:80/624850/624850/7219
+Cinema World,http://iptv.tvmalaysia.cc:80/321456/321456/7219
+Colors HD,http://iptv.tvmalaysia.cc:80/624850/624850/6769
+Colors HD,http://iptv.tvmalaysia.cc:80/321456/321456/6769
+Crime & Investigation.,http://iptv.tvmalaysia.cc:80/624850/624850/9009
+Crime & Investigation.,http://iptv.tvmalaysia.cc:80/321456/321456/9009
+Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/321456/321456/8922
+Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/624850/624850/8922
+Discovery Channel HD,http://iptv.tvmalaysia.cc:80/624850/624850/7078
+Discovery Channel HD,http://iptv.tvmalaysia.cc:80/321456/321456/7078
+DMAX HD,http://iptv.tvmalaysia.cc:80/624850/624850/6778
+DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/321456/321456/6572
+DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/624850/624850/6572
+DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/321456/321456/6574
+DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/624850/624850/6574
+DSTV: SuperSport Variety 4,http://iptv.tvmalaysia.cc:80/321456/321456/6580
+EPL LIVE 2,http://iptv.tvmalaysia.cc:80/624850/624850/9023
+EPL LIVE 2,http://iptv.tvmalaysia.cc:80/321456/321456/9023
+FOX,http://iptv.tvmalaysia.cc:80/624850/624850/7227
+Fox Action Movies,http://iptv.tvmalaysia.cc:80/321456/321456/8839
+Fox Action Movies,http://iptv.tvmalaysia.cc:80/624850/624850/8839
+Fox Crime,http://iptv.tvmalaysia.cc:80/321456/321456/7225
+Fox Crime,http://iptv.tvmalaysia.cc:80/624850/624850/7225
+Fox Family Movie,http://iptv.tvmalaysia.cc:80/321456/321456/9027
+Fox Family Movie,http://iptv.tvmalaysia.cc:80/624850/624850/9027
+FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/624850/624850/6792
+FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/321456/321456/6792
+foxmoviebeta,http://iptv.tvmalaysia.cc:80/624850/624850/9007
+FS 1,http://iptv.tvmalaysia.cc:80/624850/624850/9003
+FS 1,http://iptv.tvmalaysia.cc:80/321456/321456/9003
+Galaxy Premium,http://iptv.tvmalaysia.cc:80/321456/321456/8838
+Galaxy Premium,http://iptv.tvmalaysia.cc:80/624850/624850/8838
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7070
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7070
+HBO FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7067
+HBO FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7067
+HBO HD,http://iptv.tvmalaysia.cc:80/321456/321456/6797
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7068
+HBO Hits FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7068
+HBO Signature FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7069
+HBO Signature FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7069
+HGTV,http://iptv.tvmalaysia.cc:80/321456/321456/7076
+HGTV,http://iptv.tvmalaysia.cc:80/624850/624850/7076
+History FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7079
+History FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7079
+Hits Movies,http://iptv.tvmalaysia.cc:80/321456/321456/7066
+Hits Movies,http://iptv.tvmalaysia.cc:80/624850/624850/7066
+Hot FM,http://iptv.tvmalaysia.cc:80/321456/321456/7170
+Hot FM,http://iptv.tvmalaysia.cc:80/624850/624850/7170
+Jaya Max,http://iptv.tvmalaysia.cc:80/321456/321456/6802
+Jaya Max,http://iptv.tvmalaysia.cc:80/624850/624850/6802
+KBS World HD,http://iptv.tvmalaysia.cc:80/624850/624850/6803
+KBS World HD,http://iptv.tvmalaysia.cc:80/321456/321456/6803
+KiX,http://iptv.tvmalaysia.cc:80/321456/321456/7229
+KiX,http://iptv.tvmalaysia.cc:80/624850/624850/7229
+LFC TV,http://iptv.tvmalaysia.cc:80/321456/321456/7237
+Makkal TV,http://iptv.tvmalaysia.cc:80/321456/321456/6806
+Makkal TV,http://iptv.tvmalaysia.cc:80/624850/624850/6806
+MNX,http://iptv.tvmalaysia.cc:80/624850/624850/8998
+MNX,http://iptv.tvmalaysia.cc:80/321456/321456/8998
+Movies Now,http://iptv.tvmalaysia.cc:80/624850/624850/8999
+MUTV,http://iptv.tvmalaysia.cc:80/624850/624850/7236
+MUTV,http://iptv.tvmalaysia.cc:80/321456/321456/7236
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/624850/624850/7080
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/321456/321456/7080
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/624850/624850/7081
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/321456/321456/7081
+National Geographic HD,http://iptv.tvmalaysia.cc:80/624850/624850/7075
+National Geographic HD,http://iptv.tvmalaysia.cc:80/321456/321456/7075
+Nick Jr,http://iptv.tvmalaysia.cc:80/321456/321456/6813
+Nick Jr,http://iptv.tvmalaysia.cc:80/624850/624850/6813
+Nickelodeon,http://iptv.tvmalaysia.cc:80/321456/321456/7201
+Nickelodeon,http://iptv.tvmalaysia.cc:80/624850/624850/7201
+One HD,http://iptv.tvmalaysia.cc:80/321456/321456/6817
+One HD,http://iptv.tvmalaysia.cc:80/624850/624850/6817
+Red By HBO HD,http://iptv.tvmalaysia.cc:80/321456/321456/7071
+Red By HBO HD,http://iptv.tvmalaysia.cc:80/624850/624850/7071
+Sinar FM,http://iptv.tvmalaysia.cc:80/624850/624850/7172
+Sinar FM,http://iptv.tvmalaysia.cc:80/321456/321456/7172
+Sony One,http://iptv.tvmalaysia.cc:80/624850/624850/8863
+Sony One,http://iptv.tvmalaysia.cc:80/321456/321456/8863
+Star Movies HD,http://iptv.tvmalaysia.cc:80/624850/624850/8997
+Star Movies HD,http://iptv.tvmalaysia.cc:80/321456/321456/8997
+STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/321456/321456/8991
+STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/624850/624850/8991
+Sun Music,http://iptv.tvmalaysia.cc:80/624850/624850/6831
+Sun Music,http://iptv.tvmalaysia.cc:80/321456/321456/6831
+THR GEGAR,http://iptv.tvmalaysia.cc:80/321456/321456/7174
+Thrill,http://iptv.tvmalaysia.cc:80/624850/624850/7220
+Thrill,http://iptv.tvmalaysia.cc:80/321456/321456/7220
+Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/624850/624850/8986
+Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/321456/321456/8986
+TSN 1,http://iptv.tvmalaysia.cc:80/624850/624850/8923
+TSN 1,http://iptv.tvmalaysia.cc:80/321456/321456/8923
+TSN 2,http://iptv.tvmalaysia.cc:80/624850/624850/8924
+TSN 2,http://iptv.tvmalaysia.cc:80/321456/321456/8924
+TSN 3,http://iptv.tvmalaysia.cc:80/321456/321456/8925
+TSN 3,http://iptv.tvmalaysia.cc:80/624850/624850/8925
+TV 1,http://iptv.tvmalaysia.cc:80/321456/321456/7177
+TV 2,http://iptv.tvmalaysia.cc:80/321456/321456/7178
+TV 2,http://iptv.tvmalaysia.cc:80/624850/624850/7178
+TV 3,http://iptv.tvmalaysia.cc:80/321456/321456/7266
+TV 3,http://iptv.tvmalaysia.cc:80/624850/624850/7266
+TV 3 HD,http://iptv.tvmalaysia.cc:80/321456/321456/8750
+TV 9,http://iptv.tvmalaysia.cc:80/321456/321456/7185
+TV 9,http://iptv.tvmalaysia.cc:80/624850/624850/7185
+TV-AlHijrah,http://iptv.tvmalaysia.cc:80/624850/624850/6834
+TVBS Asia HD,http://iptv.tvmalaysia.cc:80/624850/624850/6843
+TvN,http://iptv.tvmalaysia.cc:80/624850/624850/8865
+TvN,http://iptv.tvmalaysia.cc:80/321456/321456/8865
+tvN Movies,http://iptv.tvmalaysia.cc:80/321456/321456/6845
+tVN movies HD,http://iptv.tvmalaysia.cc:80/624850/624850/7074
+tVN movies HD,http://iptv.tvmalaysia.cc:80/321456/321456/7074
+UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/321456/321456/6619
+UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/321456/321456/6617
+UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/624850/624850/6617
+UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/624850/624850/6620
+UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/321456/321456/6620
+UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/321456/321456/6618
+UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/624850/624850/6618
+UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/624850/624850/6614
+UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/321456/321456/6614
+Universal Kids FHD,http://iptv.tvmalaysia.cc:80/624850/624850/7205
+Universal Kids FHD,http://iptv.tvmalaysia.cc:80/321456/321456/7205
+WWE Network,http://iptv.tvmalaysia.cc:80/624850/624850/6849
+
