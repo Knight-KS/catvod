@@ -36,7 +36,7 @@
  "dtArea": "",
  "dtActor": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '主演')]/following-sibling::div/a/text()",
  "dtDirector": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '导演')]/following-sibling::div/a/text()",
- "dtDesc": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '剧情')]/following-sibling::div/text()",
+ "dtDesc": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '剧情')]//span/text()",
  "dtFromNode": "//div[contains(@class, 'module-tab-content')]/div[contains(@class, 'module-tab-item')]/span",
  "dtFromName": "/text()",
  "dtUrlNode": "//div[contains(@class, 'module-blocklist')]",
