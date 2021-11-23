@@ -13,7 +13,11 @@
     },
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/miniku.json"},
 
-{"key": "xml","name": "xml","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/at/xml/","playUrl": "","categories":[]}
+{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
+{"key": "abc","name": "abc","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/at/xml/","playUrl": "","categories":[]},
+{"key": "tp","name": "tp","type": 1,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml","playUrl": "","categories":[]},
+{"key": "wer","name": "wer","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "","categories":[]}
+
   ],
   "lives": [
     {
