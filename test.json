@@ -22,7 +22,7 @@
 {"key": "bd","name": "bd","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kb","name": "kb","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "kk","name": "kk","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "kk","name": "kk","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
 
 
 
