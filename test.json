@@ -14,12 +14,11 @@
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/Tangsan99999/-/raw/main/xpath/miniku.json"},
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
-{"key": "abc","name": "bd","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "https://player.bdxzym3u8.com/dplayer/?url=","categories":[]},
-{"key": "tp","name": "tp","type": 1,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/json?ac=list","playUrl": "","categories":[]},
+{"key": "abc","name": "bd","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "wer","name": "fq","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
-{"key": "wj","name": "wj","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "https://jx.xhswglobal.com/dplayer/?url=","categories":[]},
-{"key": "tk","name": "tk","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "https://jx.huishij.com/yun/?url=","categories":[]},
-{"key": "hn","name": "hn","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php","playUrl": "https://www.tutukiki.com/m3u8/?url=","categories":[]}
+{"key": "wj","name": "wj","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "tk","name": "tk","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "hn","name": "hn","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php","playUrl": "","categories":[]}
 
   ],
   "lives": [
