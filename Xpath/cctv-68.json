@@ -34,7 +34,7 @@
  "dtCate": "//div[@class='video-info']//div[@class='tag-link']/span/following-sibling::*/text()",
  "dtYear": "",
  "dtArea": "",
- "dtActor": "",
+ "dtActor": "//div[@class='video-info']//span[contains(@class,'video-info-itemtitle') and contains(text(), '主演')]/following-sibling::*/text()",
  "dtDirector": "",
  "dtDesc": "",
  "dtFromNode": "//div[contains(@class, 'module-tab-content')]/div[contains(@class, 'module-tab-item')]/span",
