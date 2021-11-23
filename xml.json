@@ -2,6 +2,15 @@
   "spider": "https://gitlab.com/lohshixue/OriginalCat/-/raw/master/jar/custom_spider.jar?",
   "sites": [
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
+{"key": "bd","name": "百度云(无广告）","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "bd","name": "北斗","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
+{"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "tk","name": "天空","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "kb","name": "快播云","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "kk","name": "看看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
+
 {"key":"0号资源","name":"0号资源","type":0,"api":"http://api.000zy.com/provide/vod/at/xml/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
 {"key":"2A资源","name":"2A资源","type":0,"api":"http://zy.zcocc.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
 {"key":"348电影","name":"348电影","type":0,"api":"https://348z.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""},
