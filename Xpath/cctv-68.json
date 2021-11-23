@@ -45,11 +45,11 @@
  "dtUrlIdR": "/vodplay/(\\S+)/",
  "dtUrlName": "/span/text()",
  "playUrl": "https://www.cctv-68.com/vodplay/{playUrl}.html",
- "searchUrl": "https://www.cctv-68.com/vodsearch/-------------.html?wd={wd}",
- "scVodNode": "//div[@class='module-list']",
- "scVodName": "//a/@alt",
- "scVodId": "/a/@href",
- "scVodImg": "/img/@data-src",
- "scVodMark": ""
+ "searchUrl": "https://www.cctv-68.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
 }
-
