@@ -57,7 +57,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.lranc.com/zxbf/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.lranc.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.lranc.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
