@@ -1,8 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://www.mudvod.tv",
-  "cateNode": "//div[contains(@class, 'channel-link')]/a[contains(@id,'nav-link')]",
-  "cateName": "//div[contains(@class, 'channel-link')]/a[contains(@id,'nav-link')]/text()",
+  "cateNode": "//div[contains(@class, 'nav-channel')]/a[contains(@id,'nav-link')]",
+  "cateName": "//div[contains(@class, 'nav-channel')]/a[contains(@id,'nav-link')]/text()",
   "cateId": "/@href",
   "cateIdR": "class.html?channelId=(\\d+)",
   "cateManual":{},
