@@ -42,7 +42,7 @@
  "dtUrlNode": "//div[contains(@class, 'module-blocklist')]",
  "dtUrlSubNode": "/div/a",
  "dtUrlId": "/@href",
- "dtUrlIdR": "/vodplay/(\\S+)/",
+ "dtUrlIdR": "/vodplay/(\\S+).html",
  "dtUrlName": "/span/text()",
  "playUrl": "https://www.cctv-68.com/vodplay/{playUrl}.html",
  "searchUrl": "https://www.cctv-68.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
