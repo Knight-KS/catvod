@@ -26,7 +26,6 @@
 {"key":"zuida","name":"柚子资源","type":0,"api":"http://tv.aitesucai.xyz/api.php/provide/vod/at/xml","categories":["综艺","动漫","动作","喜剧","爱情","科幻","恐怖","剧情","战争","大陆剧","港台剧","日韩剧","欧美剧","纪录","海外剧","蓝光电影","蓝光电视剧","蓝光动漫"],"playUrl":"https://jiexi.linzhiyuan.xyz/jiexi/?url="},
 {"key":"淘片资源","name":"淘片资源","type":0,"api":"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml","categories":[],"playUrl":""},
 {"key":"真不卡","name":"真不卡","type":1,"api":"http://db.taijuwang.cc/api.php/provide/vod/","categories":[],"playUrl":""},
-
 {"key":"0号资源","name":"0号资源","type":1,"api":"http://api.000zy.com/provide/vod/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
 {"key":"2A资源","name":"2A资源","type":1,"api":"http://zy.zcocc.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"348电影","name":"348电影","type":1,"api":"https://348z.com/api.php/provide/vod/","categories":[],"playUrl":""},
