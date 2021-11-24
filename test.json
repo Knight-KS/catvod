@@ -48,7 +48,7 @@
 {"key":"BL影视","name":"BL影视B","type":0,"api":"https://bljiex.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"KK看剧","name":"KK看剧","type":0,"api":"http://www.kkkanju.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"lehoo资源","name":"lehoo资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/","categories":[],"playUrl":""},
-,
+
 {"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://www.omofun.com/api.php/provide/vod/","categories":["动漫","剧场版","国产","欧美"],"playUrl":""},
 
 {"key":"w7tv","name":"w7tv","type":1,"api":"http://w7tv.com/api.php/provide/vod/","categories":[],"playUrl":""},
