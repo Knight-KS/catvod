@@ -1,8 +1,14 @@
 {
   "spider": "https://gitlab.com/lohshixue/OriginalCat/-/raw/master/jar/custom_spider.jar?",
   "sites": [
+
+#(无广告)
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
-{"key": "bd","name": "百度云(无广告）","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "bd","name": "百度云","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key":"4K影院","name":"4K影院(无广告）","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
+
+#资源站
 {"key": "bd","name": "北斗","type": 1,"api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
 {"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
@@ -11,12 +17,12 @@
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kk","name": "看看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"4K影院","name":"4K影院(无广告）","type": 0,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
 
-{"key":"0号资源","name":"0号资源","type":0,"api":"http://api.000zy.com/provide/vod/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
-{"key":"2A资源","name":"2A资源","type":0,"api":"http://zy.zcocc.com/api.php/provide/vod/","categories":[],"playUrl":""},
-{"key":"348电影","name":"348电影","type":0,"api":"https://348z.com/api.php/provide/vod/","categories":[],"playUrl":""},
-{"key":"39影视","name":"39影视","type":0,"api":"https://www.39kan.com/api.php/provide/vod/","categories":[],"playUrl":""},
+
+{"key":"0号资源","name":"0号资源","type":1,"api":"http://api.000zy.com/provide/vod/","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","犯罪片","奇幻片","悬疑片","惊悚片","古装片","动画片"],"playUrl":""},
+{"key":"2A资源","name":"2A资源","type":1,"api":"http://zy.zcocc.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"348电影","name":"348电影","type":1,"api":"https://348z.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key":"39影视","name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","categories":[],"playUrl":""},
 
 
 {"key":"605资源","name":"605资源","type":0,"api":"http://www.605zy.co/inc/api.php","categories":[],"playUrl":""},
@@ -38,7 +44,7 @@
 {"key":"三零资源","name":"三零资源","type":1,"api":"http://api.000zy.com/provide/vod/","categories":[],"playUrl":"https://jx.3jx.net/?url="},
 {"key":"不开资源","name":"不开资源","type":0,"api":"http://c.bukai.men/api.php/provide/vod/","categories":[],"playUrl":""},
 
-{"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
+
 {"key":"任我云资源","name":"任我云资源","type":0,"api":"https://www.renwoyun.cn/api.php/provide/vod/at/xml","categories":[],"playUrl":"https://jiexi.linzhiyuan.xyz/jiexi/?url="},
 {"key":"优剧资源","name":"优剧资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"侦探APP","name":"侦探APP","type":1,"api":"http://ys.huangguay.com/api.php/provide/vod/","categories":[],"playUrl":""},
