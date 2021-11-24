@@ -2,7 +2,7 @@
   "spider": "https://gitlab.com/lohshixue/OriginalCat/-/raw/master/jar/custom_spider.jar?",
   "sites": [
 
-#(无广告)
+// ⇩⇩ 无广告 ⇩⇩
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"4K影院","name":"4K影院","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
@@ -10,7 +10,7 @@
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"88资源","name":"88资源","type":0,"api":"http://www.88zy.live/inc/api.php","categories":[],"playUrl":""},
 
-#资源站
+// ⇩⇩ 资源站 ⇩⇩
 {"key": "bd","name": "北斗","type": 1,"api": "https://api.bdxzyapi.com/api.php/provide/vod?ac=list","playUrl": "","categories":[]},
 {"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
 {"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
