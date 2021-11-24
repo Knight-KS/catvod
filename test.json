@@ -14,13 +14,13 @@
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/Tangsan99999/-/raw/main/xpath/miniku.json"},
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
-#(无广告)
+
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key": "bd","name": "百度云","type": 1,"api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key":"4K影院","name":"4K影院(无广告）","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 
-#资源站
+
 {"key": "bd","name": "北斗","type": 1,"api": "https://api.bdxzyapi.com/api.php/provide/vod?ac=list","playUrl": "","categories":[]},
 {"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
 {"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
