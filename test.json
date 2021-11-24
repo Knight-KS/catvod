@@ -27,7 +27,7 @@
 {"key": "tk","name": "天空","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kb","name": "快播云","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]}
+{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"优剧资源","name":"优剧资源","type":1,"api":"https://zy.ujuba.com/api.php/provide/vod/","categories":[],"playUrl":""},
 
