@@ -13,8 +13,8 @@
     },
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/Tangsan99999/-/raw/main/xpath/miniku.json"},
 
-{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]}
-
+{"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
+{"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml","categories":[],"playUrl":""}
 
 
 
