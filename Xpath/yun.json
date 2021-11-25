@@ -15,7 +15,7 @@
 	"homeVodName": "//a[contains(@class,'fed-list-pics fed-lazy')]/following-sibling::a)[2]",
 	"homeVodId": "/@href",
 	"homeVodIdR": "/voddetail/(\\S+).html",
-	"homeVodImg": "/@data-original",
+	"homeVodImg": "//a[contains(@class,'fed-list-pics fed-lazy')]/@data-original",
 	"homeVodImgR": "\\S+(http\\S+)",
 	"homeVodMark": "//span[3]",
 	"cateUrl": "https://yunbangcheng.com/type/{cateId}-{catePg}.html",
