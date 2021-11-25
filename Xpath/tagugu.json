@@ -7,7 +7,7 @@
  "dcShow2Vip": {},
  "dcPlayUrl": "true",
  "cateNode": "//ul[contains(@class, 'nav-menu-items')]/li/a[contains(@href, 'type')]",
- "cateName": "*/text()",
+ "cateName": "//ul[contains(@class, 'nav-menu-items')]/li/a[contains(@href, 'type')]/following-sibling::*/text()",
  "cateId": "/@href",
  "cateIdR": "/index.php/vod/type/id/(\\d+).html",
  "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
