@@ -91,6 +91,7 @@
   ],
  "parses":[
 
+{"name":"youku","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"ysgc","type":0,"url":["https://jx.ysgc.xyz/?url="]},
 {"name":"duoduzy","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
 {"name":"naifeimi","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
