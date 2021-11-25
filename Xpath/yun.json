@@ -11,7 +11,7 @@
 	"cateId": "/@href",
 	"cateIdR": "/vodtype/(\\S+).html",
 	"cateManual": {},
-	"homeVodNode": "//ul[contains(@class, 'fed-list-info fed-part-rows')]/li/a[contains(@href, 'detail')]",
+	"homeVodNode": "//ul[contains(@class, 'fed-part-layout fed-back-whits')]/ul/li/a[contains(@href, 'voddetail')]",
 	"homeVodName": "//a[contains(@class,'fed-list-pics fed-lazy')]/following-sibling::a",
 	"homeVodId": "/@href",
 	"homeVodIdR": "/voddetail/(\\S+).html",
