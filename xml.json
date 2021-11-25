@@ -22,6 +22,13 @@
 {"key":"605","name":"605资源","type":0,"api":"http://www.605zy.co/inc/api.php","categories":[],"playUrl":""},
 {"key":"leeduo","name":"乐多资源","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
 {"key":"lehoo","name":"乐活资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/","categories":[],"playUrl":""},
+{"key": "sd","name": "闪电 ","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "yh","name": "樱花","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
+
+
+
 
 {"key":"zuida","name":"柚子资源","type":0,"api":"http://tv.aitesucai.xyz/api.php/provide/vod/at/xml","categories":["综艺","动漫","动作","喜剧","爱情","科幻","恐怖","剧情","战争","大陆剧","港台剧","日韩剧","欧美剧","纪录","海外剧","蓝光电影","蓝光电视剧","蓝光动漫"],"playUrl":"https://jiexi.linzhiyuan.xyz/jiexi/?url="},
 {"key":"淘片资源","name":"淘片资源","type":0,"api":"https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml","categories":[],"playUrl":""},
