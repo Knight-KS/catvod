@@ -27,7 +27,7 @@
 	"cateVodImgR": "\\S+(http\\S+)",
 	"cateVodMark": "/span[contains(@class,'pic-text')]/text()",
 	"dtUrl": "https://www.siguyy.com/detail/{vid}.html",
-	"dtNode": "//div[@class='myui-panel-box clearfix']",
+	"dtNode": "//div[@class='col-xs-1']",
 	"dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
 	"dtNameR": "",
 	"dtImg": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original",
