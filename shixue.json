@@ -18,7 +18,7 @@
 {"key":"csp_xpath_555","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
 {"key":"csp_xpath_pomama","name":"poma","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/pomama.json"},
 
-{"key":"思古","name": "思古","type": 1,"api": "https://www.siguyy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
+{"key":"思古","name": "思古","type": 1,"api": "https://www.siguyy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
 {"key":"奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
 {"key":"UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
