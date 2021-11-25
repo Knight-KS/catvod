@@ -4,28 +4,27 @@
 
 // ⇩⇩ 无广告 ⇩⇩
 {"key":"naifeimi","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
-{"key":"bd","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"HY4k","name":"4K影院","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"renrenmi","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"uk","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"88","name":"88资源","type":0,"api":"http://www.88zy.live/inc/api.php","categories":[],"playUrl":""},
 
 // ⇩⇩ 资源站 ⇩⇩
-{"key": "bd","name": "北斗","type": 1,"api": "https://api.bdxzyapi.com/api.php/provide/vod?ac=list","playUrl": "","categories":[]},
-{"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","playUrl": "https://dp.8b5q.cn/dplayer/?url=","categories":[]},
-{"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "tk","name": "天空","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "kb","name": "快播","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "db","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
+{"key": "bdx","name": "北斗","type": 1,"api": "https://api.bdxzyapi.com/api.php/provide/vod?ac=list","categories":[],"playUrl": ""},
+{"key": "wj","name": "无尽","type": 1,"api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "tk","name": "天空","type": 1,"api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "kb","name": "快播","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "kd","name": "酷点","type": 1,"api": "https://api.kuapi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","categories":[],"playUrl": ""},
 {"key": "hn","name": "红牛","type": 1,"api": "https://www.hongniuzy.com/inc/apijson_vod.php","categories":[],"playUrl":""},
 {"key":"605","name":"605资源","type":0,"api":"http://www.605zy.co/inc/api.php","categories":[],"playUrl":""},
+{"key": "fq","name": "番茄","type": 1,"api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/","categories":[],"playUrl": "https://dp.8b5q.cn/dplayer/?url="},
 {"key":"leeduo","name":"乐多资源","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
 {"key":"lehoo","name":"乐活资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/","categories":[],"playUrl":""},
-{"key": "sd","name": "闪电 ","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "yh","name": "樱花","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
-{"key": "xk","name": "想看","type": 1,"api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list","playUrl": "","categories":[]},
+{"key": "sd","name": "闪电 ","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "yh","name": "樱花","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""}
+
 
 
 
