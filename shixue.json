@@ -99,38 +99,36 @@
  "parses":[
 
 {"name":"youku","type":0,"url":["https://qimihe.com/?url="]},
-{"name":"mg","type":0,"url":["https://1-th.gzmtc.top/?url="]},
+{"name":"mgtv","type":0,"url":["https://1-th.gzmtc.top/?url="]},
 {"name":"ysgc","type":0,"url":["https://jx.ysgc.xyz/?url="]},
 {"name":"yemao","type":0,"url":["https://jx.6949.cc/?url="]},
 {"name":"duoduzy","type":0,"url":["https://player.duoduozy.com/ddplay/p2p.php?url="]},
 {"name":"naifeimi","type":0,"url":["https://svip.naifeimi.com/nfm/?url="]},
 {"name":"xkys","type":0,"url":["https://play.xkys.tv/jiexi.php?url="]},
-{"name":"renrenmi","type":0,"url":["https://jx.renrenmi.cc/?url="]},
 {"name":"789pan","type":0,"url":["https://web.jiexi.work/777/?url="]},
 {"name":"coke","type":0,"url":["https://cokemv.me/player/?url="]},
-{"name":"555","type":0,"url":["https://jhpc.manduhu.com/?url="]},
 {"name":"miao","type":0,"url":["https://vip5.jiexi.one/?url="]},
 {"name":"全民","type":0,"url":["https://jx.quanmingjiexi.com/?url="]},
-{"name":"高清解析5","type":0,"url":["https://jx.parwix.com:4433/player/?url="]},
 {"name":"高清解析6","type":0,"url":["https://jx.xmflv.com/?url="]},
 {"name":"高清解析7","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 
+{"name":"720看片","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+{"name":"筋斗云","type":1,"url":"https://vip.byteamone.cn/api/?key=6QbQClrF1qGZTK2W4w&url="},
+{"name":"mgtv","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="},
 {"name":"json解析1","type":1,"url":"https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="},
 {"name":"json解析2","type":1,"url":"https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="},
-{"name":"mgtv","type":1,"url":"http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="},
-{"name":"json解析4","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="},
-{"name":"json解析5","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},
 {"name":"json解析6","type":1,"url":"https://vip.parwix.com:4433/analysis/json/?uid=2206&my=hmqwABCHILMNTV5678&url="},
 {"name":"json解析7","type":1,"url":"http://www.zhaikanys.com/jx.php?url="},
 {"name":"json解析8","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="},
 {"name":"json解析9","type":1,"url":"https://api.shengqiankuaitao.cn/api/?key=I7iOCx9465knkzUo5H&url="},
 {"name":"json解析10","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},
-{"name":"json解析11","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url="},
-{"name":"json解析12","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="}
-
+{"name":"renrenmi","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url="},
+{"name":"json解析12","type":1,"url":"https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="},
+{"name":"555","type":1,"url":"https://jhpc.manduhu.com/j.php?url="},
+{"name":"json解析5","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="}
 
 ],
 
