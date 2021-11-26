@@ -9,6 +9,7 @@
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Coke(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_xpath_6949","name":"小小","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/6949.json"},
 {"key":"csp_xpath_1010dy","name":"双十","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1010dy.json"},
 {"key":"csp_xpath_duoduo","name":"多多","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/dd520.json"},
 {"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
