@@ -14,7 +14,7 @@
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/yun.json"},
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]},
-{"key": "xml","name": "xmltest","type": 1,"api": "https://www.mgtv.one/api.php/provide/vod","playUrl": "","categories":[]}
+{"key": "xml","name": "xmltest","type": 1,"api": "https://www.mgtv.one/api.php/provide/vod","playUrl": "https://vip5.jiexi.one/?url=","categories":[]}
 
 
 
