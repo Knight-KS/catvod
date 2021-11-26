@@ -11,7 +11,7 @@
   "cateId": "/@href",
   "cateIdR": "/vodtype/(\\S+).html",
   "cateManual": {},
-  "homeVodNode": "//div[@class='container']//ul[contains(@class,'vodlist')]/li/a[contains(@href,'vodtype')]",
+  "homeVodNode": "/html/body/div[3]/div[3]/div[1]/div[2]/div[1]/ul[contains(@class,'vodlist')]/li/a[contains(@href,'vodtype')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/voddetail/(\\S+).html",
