@@ -19,7 +19,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "",
   "cateUrl": "https://6949.cc/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
-  "cateVodNode": "//ul[contains(@class,'vodlist')]//li/a[contains(@class,'vodlist__thumb')]",
+  "cateVodNode": "//ul[contains(@class,'vodlist')]//li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\S+).html",
