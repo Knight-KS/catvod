@@ -18,7 +18,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "",
-  "cateUrl": "https://6949.cc/vodshow/{cateId}--------{catePg}---.html",
+  "cateUrl": "https://6949.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
   "cateVodNode": "//ul[contains(@class,'vodlist')]/li/a[contains(@href,'voddetail')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
