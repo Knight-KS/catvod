@@ -44,7 +44,7 @@
   "dtActorR": "",
   "dtDirector": "//span[text()='导演：']/following-sibling::/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[text()='简介：']/parent::*/text()",
+  "dtDesc": "//li[@class='desc hidden_xs']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class, 'play_source_tab')]",
   "dtFromName": "/a/@alt",
