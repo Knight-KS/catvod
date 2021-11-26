@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"
     },
     {
       "key": "n0ys_spider",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/90ys.json"
     },
     {
       "key": "cokemv_spider",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/cokemv.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"
     },
     {
       "key": "adys_spider",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/aidi.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/aidi.json"
     },
     {
       "key": "enlienli_spider",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/jipin.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"
     },
     {
       "key": "9ekk_spider",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/90ys.json"
     },
     {
       "key": "csp_YydsAli1",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/cjtys.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/saohuotv2.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"
     },
     {
       "key": "csp_xpath_subb",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/subaibai.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -153,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/dm84.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/dm84.json"
     },
     {
       "key": "csp_xpath_age",
@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/agefans.json"
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"
     }
   ],
   "lives": [
