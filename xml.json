@@ -23,8 +23,8 @@
 {"key":"leeduo","name":"乐多资源","type":0,"api":"http://cj.leduocaiji.com/inc/seacmsapi.php","categories":[],"playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid="},
 {"key":"lehoo","name":"乐活资源","type":0,"api":"https://www.lehootv.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key": "sd","name": "闪电 ","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
-{"key": "yh","name": "樱花","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""}
-
+{"key": "yh","name": "樱花","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
+{"key": "xml","name": "xmltest","type": 1,"api": "https://www.mgtv.one/api.php/provide/vod","playUrl": "https://vip5.jiexi.one/?url=","categories":[]},
 
 
 
