@@ -13,7 +13,7 @@
 
 {"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
-{"key":"csp_xpath_1010dy","name":"双十","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1010dy.json"},
+{"key":"csp_xpath_1010dy","name":"双十","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1010dy.json"},
 {"key":"csp_xpath_duoduo","name":"多多","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/dd520.json"},
 {"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
 {"key":"csp_xpath_jumi","name":"剧迷(G)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/Public@main/xpath/jumi.json"},
