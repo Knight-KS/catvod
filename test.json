@@ -15,7 +15,7 @@
 {"key":"csp_xpath2","name":"1090(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1090ys.json"},
 {"key":"csp_xpath3","name":"88dm(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/88dmw.json"},
 {"key":"csp_xpath4","name":"99ys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/99ys.json"},
-{"key":"csp_xpath5","name":"czspp(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/czspp.json"},
+{"key":"csp_xpath5","name":"czspp(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/czspp.json"},
 {"key":"csp_xpath6","name":"hgys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/hgys.json"},
 {"key":"csp_xpath7","name":"jjkp(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jjkp.json"},
 {"key":"csp_xpath8","name":"meiju(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/meiju56.json"},
