@@ -44,7 +44,7 @@
 "dtAreaR":"",
 "dtMark":"",
 "dtMarkR":"",
-"dtActor":"//div[@class='dytext fl']/ul/li[8]/a/@title",
+"dtActor":"//div[@class='dytext fl']/ul/li[8]/a/@title || @title",
 "dtActorR":"",
 "dtDirector":"//div[@class='dytext fl']/ul/li[6]/a/@title",
 "dtDirectorR":"",
