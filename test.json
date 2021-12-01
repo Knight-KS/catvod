@@ -12,6 +12,20 @@
     "filterable": 0
     },
 {"key":"csp_xpath","name":"(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/6949.json"},
+{"key":"csp_xpath","name":"1090(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1090ys.json"},
+{"key":"csp_xpath","name":"88dm(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/88dmw.json"},
+{"key":"csp_xpath","name":"99ys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/99ys.json"},
+{"key":"csp_xpath","name":"czspp(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/czspp.json"},
+{"key":"csp_xpath","name":"hgys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/hgys.json"},
+{"key":"csp_xpath","name":"jjkp(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jjkp.json"},
+{"key":"csp_xpath","name":"meiju(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/meiju56.json"},
+{"key":"csp_xpath","name":"mua(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/mua99s.json"},
+{"key":"csp_xpath","name":"niuma(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/niumatv.json"},
+{"key":"csp_xpath","name":"nm(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nmys.json"},
+{"key":"csp_xpath","name":"waipian(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/waipian2.json"},
+{"key":"csp_xpath","name":"xkys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/xkys.json"},
+
+
 
 {"key": "UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","playUrl": "","categories":[]}
 
