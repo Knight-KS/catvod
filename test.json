@@ -1,9 +1,25 @@
 {
-  "spider": "https://gitlab.com/shixue/catvod/raw/main/lite/main_spider.jar",
+  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider031221.jar",
   "sites": [
 
-{
-    "key": "csp_YydsAli",
+{"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
+{"key":"csp_nfzjm","name":"南府追剧","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_zjdr","name":"追剧达人(G)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
+{"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
+{"key":"csp_enli","name":"嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_jpys","name":"极品","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
+
+{"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
+{"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
+{"key":"csp_xpath_duoduo","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
+{"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
+{"key":"csp_xpath_jumi","name":"剧迷(G)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jumi.json"},
+{"key":"csp_xpath_pomama","name":"poma","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/pomama.json"},
+{"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
+
+    {"key": "csp_YydsAli",
     "name": "yyds阿里(爬虫)",
     "type": 3,
     "api": "csp_YydsAli1",
@@ -11,15 +27,7 @@
     "quickSearch": 0,
     "filterable": 0
     },
-        {
-      "key": "nfzjm_spider",
-      "name": "南府追剧(AT)",
-      "type": 3,
-      "api": "csp_Nfzjm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     
 {"key":"csp_xpath1","name":"(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/6949.json"},
 {"key":"csp_xpath2","name":"1090(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1090ys.json"},
