@@ -13,7 +13,6 @@
 
 {"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
-{"key":"csp_xpath_1010dy","name":"双十","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1010dy.json"},
 {"key":"csp_xpath_duoduo","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
 {"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
 {"key":"csp_xpath_jumi","name":"剧迷(G)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jumi.json"},
@@ -22,7 +21,6 @@
 
 {"key":"思古","name": "思古","type": 1,"api": "https://www.siguyy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
 {"key":"奈菲迷","name": "奈菲迷","type": 1,"api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
-{"key":"UVN.INK影视","name": "UVN.INK影视","type": 1,"api": "http://shdmv.com/api.php/provide/vod","categories":[],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"4K影院","name":"4K影院(无广告）","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
