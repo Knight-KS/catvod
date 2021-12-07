@@ -19,7 +19,7 @@
 {"key":"csp_xpath_pomama","name":"poma","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/pomama.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
 
-{"key":"test","name": "test","type": 1,"api": "http://zy.yilans.net:8090/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://www.8090.la/8090/?url="},
+
 {"key":"思古","name": "思古","type": 1,"api": "https://www.siguyy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
 {"key":"奈菲迷","name": "奈菲迷","type": 1,"api": "https://shdmv.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
