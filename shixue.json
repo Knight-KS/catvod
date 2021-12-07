@@ -2,7 +2,13 @@
   "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider011221.jar",
   "sites": [
 
-{"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
+
+{"key":"csp_2345","name":"2345影视","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/2345.json"},
+{"key":"csp_sogou","name":"搜狗影视","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/sogou.json"},
+{"key":"csp_360","name":"360影视","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/360.json"},
+{"key":"csp_buka","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/buka.json"},
+{"key":"csp_bwl87","name":"阿房影视","type":3,"api":"csp_EPang","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/bwl87.json"},
+{"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":1,"ext":"B9C8093A210EADA1"},
 {"key":"csp_nfzjm","name":"南府追剧","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zjdr","name":"追剧达人(G)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
