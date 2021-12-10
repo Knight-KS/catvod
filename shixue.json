@@ -4,7 +4,7 @@
 
 
 {"key":"csp_2345","name":"2345影视","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/2345.json"},
-{"key": "ikan_spider","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "A9545C889B5D"},
+{"key": "ikan_spider","name": "爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "A9545C889B5D"},
 {"key":"csp_buka","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/buka.json"},
 {"key":"csp_bwl87","name":"阿房影视","type":3,"api":"csp_EPang","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/bwl87.json"},
 {"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":1,"ext":"B9C8093A210EADA1"},
