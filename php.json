@@ -4,12 +4,12 @@
 {"key":"cokemv","name":"cokemv爬虫","type":1,"api":"http://pandown.pro/mao/cokemv.php","searchable":1,"quickSearch":1,"filterable":1,"categories":[]},
 {"key":"nekk","name":"九亿爬虫","type":1,"api":"http://pandown.pro/mao/nekk.php"},
 {"key":"xuangz","name":"六度爬虫","type":1,"api":"http://pandown.pro/mao/xuangz.php"},
-{"key":"ysgc","name":"毒蛇爬虫","type":1,"api":"http://pandown.pro/mao/ysgc.php"},
+{"key":"ysgc","name":"ysgc爬虫","type":1,"api":"http://pandown.pro/mao/ysgc.php"},
 {"key":"tv552","name":"迪迪爬虫","type":1,"api":"http://pandown.pro/mao/tv552.php"},
 {"key":"libvio","name":"libvio爬虫","type":1,"api":"http://pandown.pro/mao/libvio.php"},
 {"key":"buka","name":"buka爬虫","type":1,"api":"http://pandown.pro/mao/buka.php"},
 {"key":"xmkk","name":"xmkk爬虫","type":1,"api":"http://pandown.pro/mao/xmkk.php"},
-{"key":"juzi","name":"桔子爬虫","type":1,"api":"http://pandown.pro/mao/juzi.php"},
+
 {"key":"爱奇艺视频php","name":"爱奇艺视频php","type":1,"api":"http://119.91.206.244/cat/iqiyi.php","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"芒果TV","name":"芒果TV","type":1,"api":"http://119.91.206.244/cat/mgtv.php","playUrl":"","categories":[]},
 {"key":"优酷","name":"优酷","type":1,"api":"http://119.91.206.244/cat/youku.php","playUrl":"","categories":[]},
@@ -44,6 +44,7 @@
 {"key":"思古php","name":"思古php","type":1,"api":"http://119.91.206.244/cat/siguyy.php","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"x1080Ptvphp","name":"1080Ptvphp","type":1,"api":"http://119.91.206.244/cat/cstv.php","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
 {"key":"x安云php","name":"安云php","type":1,"api":"http://119.91.206.244/cat/anyun.php","searchable":1,"quickSearch":1,"filterable":0,"categories":[]},
+{"key":"juzi","name":"x桔子爬虫","type":1,"api":"http://pandown.pro/mao/juzi.php"},
 
 {"key":"555电影","name":"555电影","type":1,"api":"http://w7tv.com/api.php/provide/vod/?ac=list","playUrl":""}
 
