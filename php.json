@@ -1,6 +1,15 @@
 {
   "spider": "https://gitee.com/little-fish2021/dy/raw/master/custom_spider.jar",  
 "sites": [    
+{        "key": "cokemv",        "name": "cokemv爬虫",        "type": 1,        "api": "http://pandown.pro/mao/cokemv.php"    },   
+{        "key": "nekk",        "name": "九亿爬虫",        "type": 1,        "api": "http://pandown.pro/mao/nekk.php"    },
+{        "key": "xuangz",        "name": "六度爬虫",        "type": 1,        "api": "http://pandown.pro/mao/xuangz.php"    },   
+{        "key": "ysgc",        "name": "毒蛇爬虫",        "type": 1,        "api": "http://pandown.pro/mao/ysgc.php"    },  
+{        "key": "tv552",        "name": "迪迪爬虫",        "type": 1,        "api": "http://pandown.pro/mao/tv552.php"    },  
+{        "key": "libvio",        "name": "libvio爬虫",        "type": 1,        "api": "http://pandown.pro/mao/libvio.php"    },
+{        "key": "buka",        "name": "buka爬虫",        "type": 1,        "api": "http://pandown.pro/mao/buka.php"    },   
+{        "key": "xmkk",        "name": "xmkk爬虫",        "type": 1,        "api": "http://pandown.pro/mao/xmkk.php"    },   
+{        "key": "juzi",        "name": "桔子爬虫",        "type": 1,        "api": "http://pandown.pro/mao/juzi.php"    },
     {
         "key": "爱奇艺视频 php",
         "name": "爱奇艺视频 php",
@@ -73,7 +82,7 @@
         "categories": []
      },
      {
-        "key": "电影牛 php",
+        "key": "x电影牛 php",
         "name": "电影牛 php",
         "type": 1,
         "api": "http://119.91.206.244/cat/dianyinn.php", 
@@ -83,7 +92,7 @@
         "categories": []
      },
     {
-        "key": "98bbw php",
+        "key": "x98bbw php",
         "name": "98bbw php",
         "type": 1,
         "api": "http://119.91.206.244/cat/98bbw.php", 
@@ -103,7 +112,7 @@
         "categories": []
      },
     {
-        "key": "1080Ptv php",
+        "key": "x1080Ptv php",
         "name": "1080Ptv php",
         "type": 1,
         "api": "http://119.91.206.244/cat/cstv.php", 
@@ -123,7 +132,7 @@
         "categories": []
      },
     {
-        "key": "安云 php",
+        "key": "x安云 php",
         "name": "安云 php",
         "type": 1,
         "api": "http://119.91.206.244/cat/anyun.php", 
@@ -279,7 +288,7 @@
         "categories": []
      },
     {
-        "key": "糖果影视",
+        "key": "x糖果影视",
         "name": "糖果影视",
         "type": 1,
         "api": "http://119.91.206.244/cat/app.php?type=%E7%B3%96%E6%9E%9C%E5%BD%B1%E8%A7%86", 
