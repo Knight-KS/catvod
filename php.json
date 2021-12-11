@@ -1,7 +1,7 @@
 {
 "spider":"https://gitee.com/little-fish2021/dy/raw/master/custom_spider.jar",
 "sites":[
-{"key":"cokemv","name":"cokemv爬虫","type":1,"api":"http://pandown.pro/mao/cokemv.php"},
+{"key":"cokemv","name":"cokemv爬虫","type":1,"api":"http://pandown.pro/mao/cokemv.php","searchable":1,"quickSearch":1,"filterable":1,},
 {"key":"nekk","name":"九亿爬虫","type":1,"api":"http://pandown.pro/mao/nekk.php"},
 {"key":"xuangz","name":"六度爬虫","type":1,"api":"http://pandown.pro/mao/xuangz.php"},
 {"key":"ysgc","name":"毒蛇爬虫","type":1,"api":"http://pandown.pro/mao/ysgc.php"},
