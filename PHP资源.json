@@ -1,0 +1,60 @@
+
+{
+  "sites": [
+    {
+        "key": "腾讯视频 php",
+        "name": "腾讯视频官网php",
+        "type": 1,
+        "api": "http://119.91.206.244/cat/qq.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "categories": []
+     },  
+    {
+      "key": "优酷",
+      "name": "优酷官网php",
+      "type": 1,
+      "api": "http://119.91.206.244/cat/youku.php",
+      "playUrl": "",
+      "categories": []
+    },
+{
+        "key": "爱奇艺视频 php",
+        "name": "爱奇艺官网php",
+        "type": 1,
+        "api": "http://119.91.206.244/cat/iqiyi.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "categories": []
+     },  
+    {
+      "key": "芒果TV",
+      "name": "芒果TV官网php",
+      "type": 1,
+      "api": "http://119.91.206.244/cat/mgtv.php",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "B站 PHP",
+      "name": "B站php",
+      "type": 1,
+      "api": "http://119.91.206.244/cat/bilibili.php",
+      "playUrl": "",
+      "categories": []
+    },
+
+可用官网配置https://pastebin.com/raw/9CuUYZcp
+
+
+PHP资源
+{        "key": "cokemv",        "name": "cokemv爬虫",        "type": 1,        "api": "http://pandown.pro/mao/cokemv.php"    },   {        "key": "nekk",        "name": "九亿爬虫",        "type": 1,        "api": "http://pandown.pro/mao/nekk.php"    },
+{        "key": "xuangz",        "name": "六度爬虫",        "type": 1,        "api": "http://pandown.pro/mao/xuangz.php"    },   
+{        "key": "ysgc",        "name": "毒蛇爬虫",        "type": 1,        "api": "http://pandown.pro/mao/ysgc.php"    },  
+{        "key": "tv552",        "name": "迪迪爬虫",        "type": 1,        "api": "http://pandown.pro/mao/tv552.php"    },  
+{        "key": "libvio",        "name": "libvio爬虫",        "type": 1,        "api": "http://pandown.pro/mao/libvio.php"    },
+{        "key": "buka",        "name": "buka爬虫",        "type": 1,        "api": "http://pandown.pro/mao/buka.php"    },   
+{        "key": "xmkk",        "name": "xmkk爬虫",        "type": 1,        "api": "http://pandown.pro/mao/xmkk.php"    },   
+{        "key": "juzi",        "name": "桔子爬虫",        "type": 1,        "api": "http://pandown.pro/mao/juzi.php"    },
