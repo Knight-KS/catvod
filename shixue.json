@@ -16,6 +16,8 @@
 {"key":"csp_enli","name":"嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jpys","name":"极品","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
 
+
+{"key":"csp_xpath_nfmovie","name":"奈菲","type":3,"api":"csp_XPathNfMov","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nfmovie.json"},
 {"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
 {"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
 {"key":"csp_xpath_duoduo","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
