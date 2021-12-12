@@ -100,6 +100,7 @@
   ],
  "parses":[
 
+{"name":"NFMs","url":"https://tt.naifeimi.com/jxphp/jx/jxx.html?url="},
 {"name":"youku","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"mgtv","type":0,"url":["https://1-th.gzmtc.top/?url="]},
 {"name":"ysgc","type":0,"url":["https://jx.ysgc.xyz/?url="]},
