@@ -3,36 +3,26 @@
   "sites": [
 
 
-{"key":"csp_2345","name":"2345影视","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/2345.json"},
 {"key":"csp_ikan","name":"爱看","type": 3,"api":"csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "A9545C889B5D"},
-{"key":"csp_buka","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/buka.json"},
-{"key":"csp_bwl87","name":"阿房影视","type":3,"api":"csp_EPang","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/bwl87.json"},
 {"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":1,"ext":"B9C8093A210EADA1"},
 {"key":"csp_nfzjm","name":"南府追剧","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zjdr","name":"追剧达人(G)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
 {"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
-{"key":"csp_enli","name":"嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_jpys","name":"极品","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
 
 
-{"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
-{"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
+{"key":"唐人街","name":"唐人街(P)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Tangsan99999/cat/main/rewrite/xpath/Renjie.json"},
+{"key":"Djx","name":"瓜皮TV(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Djx.json"},
 {"key":"csp_xpath_duoduo","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
-{"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
-{"key":"csp_xpath_jumi","name":"剧迷(G)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jumi.json"},
-{"key":"csp_xpath_pomama","name":"poma","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/pomama.json"},
+{"key":"Aixixi","name":"爱西西(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Aixixi.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
 
 
-{"key":"思古","name": "思古","type": 1,"api": "https://www.siguyy.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": ""},
 {"key":"奈菲迷","name": "奈菲迷","type": 1,"api": "https://shdmv.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"4K影院","name":"4K影院(无广告）","type": 1,"api":"http://www.dijiaxia.com/api.php/provide/vod/","categories":[],"playUrl":""},
-{"key":"人人影视","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
-{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"88资源","name":"88资源","type":0,"api":"http://www.88zy.live/inc/api.php","categories":[],"playUrl":""}
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""}
+
 
 
   ],
