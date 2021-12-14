@@ -1,6 +1,7 @@
 {
+  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;2defab91693007f3a361adf1bb0cc14f",
   "pider": "https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
-  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider1012212.jar",
+  "ider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider1012212.jar",
   "sites": [
 
 
