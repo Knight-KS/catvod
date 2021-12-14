@@ -9,7 +9,7 @@
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
 {"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
 
-{"key":"nfuxs","name":"南府","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
+{"key":"nfuxs","name":"南府","type":3,"api": "csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
 {"key":"唐人街","name":"唐人街","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Tangsan99999/cat/main/rewrite/xpath/Renjie.json"},
 {"key":"Djx","name":"瓜皮TV","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/Dijiaxia.json"},
 {"key":"Aixixi","name":"爱西西","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
