@@ -1,26 +1,23 @@
 {
-  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;2defab91693007f3a361adf1bb0cc14f",
-  "pider": "https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
+  "pider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;2defab91693007f3a361adf1bb0cc14f",
+  "spider": "https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
   "ider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider1012212.jar",
   "sites": [
 
-
-{"key":"csp_ikan","name":"爱看","type": 3,"api":"csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "A9545C889B5D"},
-{"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":1,"ext":"B9C8093A210EADA1"},
-{"key":"csp_nfzjm","name":"南府追剧","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zjdr","name":"追剧达人(G)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
 {"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
 
-{"key":"Opevod","name":"欧鹏(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/opevod.json"},
-{"key":"唐人街","name":"唐人街(P)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Tangsan99999/cat/main/rewrite/xpath/Renjie.json"},
-{"key":"Djx","name":"瓜皮TV(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/Dijiaxia.json"},
-{"key":"Aixixi","name":"爱西西(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
-{"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
+{"key":"nfuxs","name":"南府","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
+{"key":"唐人街","name":"唐人街","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Tangsan99999/cat/main/rewrite/xpath/Renjie.json"},
+{"key":"Djx","name":"瓜皮TV","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/Dijiaxia.json"},
+{"key":"Aixixi","name":"爱西西","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
+{"key":"csp_xpath_age","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
 
 
 {"key":"奈菲迷","name": "奈菲迷","type": 1,"api": "https://shdmv.com/api.php/provide/vod/?ac=list","categories":[],"playUrl": "https://svip.naifeimi.com/nfm/?url="},
+{"key":"renrenmi","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":[],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""}
 
