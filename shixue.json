@@ -1,6 +1,6 @@
 {
   "pider": "https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
-  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider1012212.jar",
+  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider1012212.jar;md5;2defab91693007f3a361adf1bb0cc14f",
   "sites": [
 
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
