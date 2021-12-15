@@ -89,6 +89,7 @@
   ],
  "parses":[
 
+{"name":"乐切","url":"https://dd.ojbkjx.com/xgplayer/?url="},
 {"name":"NFMs","url":"https://tt.naifeimi.com/jxphp/jx/jxx.html?url="},
 {"name":"youku","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"mgtv","type":0,"url":["https://1-th.gzmtc.top/?url="]},
@@ -169,7 +170,7 @@
 
 ],
 
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy"],
+  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","lekanzyw"],
  
   "ijk": [
     {
