@@ -11,37 +11,15 @@
 {"key":"csp_enli","name":"嗯哩","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jpys","name":"极品","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
 
-{"key":"csp_xpath_cjt","name":"CJT","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"},
-{"key":"csp_xpath_saohuotv","name":"骚火","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"},
-{"key":"csp_xpath_duoduo","name":"555","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/555.json"},
 {"key":"csp_xpath_axx","name":"爱西西","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/aixixi.json"},
 {"key":"csp_xpath_jumi","name":"剧迷(G)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jumi.json"},
-{"key":"csp_xpath_pomama","name":"poma","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"jx":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/pomama.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
 
-    {"key": "csp_YydsAli",
-    "name": "yyds阿里(爬虫)",
-    "type": 3,
-    "api": "csp_YydsAli1",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-    },
-
+{"key": "720P看片","name": "720P看片","type": 1,"api": "https://www.720kp.cn/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "影世界","name": "影世界","type": 1,"api": "http://video.yingworld.vip/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": ["电影","连续剧","综艺","动漫","4K专区"]},
+{"key" : "喵派对蓝光", "name" : "喵派对蓝光", "type" : 0, "api" : "https://www.mgtv.one/api.php/provide/vod/at/xml", "playUrl" : "http://renren.ga/jxphp/nfm/miaop.php?url=","searchable": 1,"quickSearch":1,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]},
     
-{"key":"csp_xpath1","name":"(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/6949.json"},
-{"key":"csp_xpath2","name":"1090(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/1090ys.json"},
-{"key":"csp_xpath3","name":"88dm(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/88dmw.json"},
-{"key":"csp_xpath4","name":"99ys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/99ys.json"},
-{"key":"csp_xpath5","name":"czspp(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/czspp.json"},
-{"key":"csp_xpath6","name":"hgys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/hgys.json"},
-{"key":"csp_xpath7","name":"jjkp(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/jjkp.json"},
-{"key":"csp_xpath8","name":"meiju(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/meiju56.json"},
-{"key":"csp_xpath9","name":"mua(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/mua99s.json"},
-{"key":"csp_xpath10","name":"niuma(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/niumatv.json"},
-{"key":"csp_xpath11","name":"nm(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nmys.json"},
-{"key":"csp_xpath12","name":"waipian(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/waipian2.json"},
-{"key":"csp_xpath13","name":"xkys(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/xkys.json"},
+
 
 
 
@@ -117,7 +95,8 @@
 }
   ],
  
- "parses":[{"name":"大熊影视","type":1,"url":"https://www.opevod.tv/template/vfed/asset/fed/player.php?id=peer&url=","t":303}
+ "parses":[{"name":"大熊影视","type":1,"url":"https://www.opevod.tv/template/vfed/asset/fed/player.php?id=peer&url=","t":303},
+ {"name": "NFMs","url": "http://renren.ga/jxphp/nfm/jxx.html?url="}
 
  ],
   "flags":["youku","qq","iqiyi","qiyi9","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","789pan"],
