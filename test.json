@@ -1,7 +1,17 @@
 {
-  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider031221.jar",
+  "spider": "https://gitlab.com/shixue/catvod/raw/main/Other/main_spider211221.jar;md5;23fc7810f7e28a36a41a886aeb5458ae",
   "sites": [
 
+{
+      "key": "gdyy_spider",
+      "name": "孤单影视(测FV0)",
+      "type": 3,
+      "api": "csp_GdyyFV0",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "00c8ce12-fece-5bd8-90d8-04ae99099644"
+    },
 {"key":"csp_rrm","name":"人人迷","type":3,"api":"csp_Rrm","searchable":1,"quickSearch":1,"filterable":0,"ext":"B9C8093A210EADA1"},
 {"key":"csp_nfzjm","name":"南府追剧","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
