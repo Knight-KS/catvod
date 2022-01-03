@@ -5,7 +5,7 @@
 
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_appys_v1_南府影视", "name":"南府影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_南府影视"},
 
 {"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"ext":"A9545C889B5D"},
 {"key":"gdyy_spider","name":"孤单影视(FV0)","type":3,"api":"csp_Gdyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"00c8ce12-fece-5bd8-90d8-04ae99099644"},
