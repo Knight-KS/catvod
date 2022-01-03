@@ -12,7 +12,6 @@
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
 {"key":"jpys","name":"极品影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
 
-{"key":"ysgc","name":"影视工厂","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/ysgc.json"},
 {"key":"trj","name":"唐人街","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/trj.json"},
 {"key":"Djx","name":"瓜皮TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/Dijiaxia.json"},
 {"key":"age","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
