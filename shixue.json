@@ -1,9 +1,10 @@
 {
 "pider":"https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
-"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider311221.jar;md5;md5;09f19f293f70bf16a4b266bb5c97ae46",
+"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar;md5;e5b492f1fd59ac8a38856c8341e59481",
 "sites":[
 
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "libvio_spider","name": "Libvio(V0)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"ext":"A9545C889B5D"},
 
