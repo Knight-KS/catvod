@@ -1,13 +1,23 @@
 {
-"pider":"https://github.com/Tangsan99999/cat/raw/main/official/jar/custom_spider.jar?raw=true",
-"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar;md5;e5b492f1fd59ac8a38856c8341e59481",
-"ider":"https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar",
+"ider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar",
+"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar",
 "sites":[
 
 {"key":"csp_ysgc","name":"影视工厂(C)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "libvio_spider","name": "Libvio(V0)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"nfzjm_spider","name":"南府追剧(AT)","type":3,"api":"csp_Nfzjm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"ext":"A9545C889B5D"},
+
+{"key": "shijueyy","name": "视觉影视爬源","type": 1,"api": "https://tt.naifeimi.com/api_php/shijueyy.php"},
+{"key": "cokemv","name": "cokemv爬虫","type": 1,"api": "http://pandown.pro/mao/cokemv.php"},
+{"key": "nekk","name": "九亿爬虫","type": 1,"api": "http://pandown.pro/mao/nekk.php"},
+{"key": "xuangz","name": "六度爬虫","type": 1,"api": "http://pandown.pro/mao/xuangz.php"},   
+{"key": "ysgc","name": "毒蛇爬虫","type": 1,"api": "http://pandown.pro/mao/ysgc.php"},  
+{"key": "tv552","name": "迪迪爬虫","type": 1,"api": "http://pandown.pro/mao/tv552.php"},  
+{"key": "libvio","name": "libvio爬虫","type": 1,"api": "http://pandown.pro/mao/libvio.php"},
+{"key": "buka","name": "buka爬虫","type": 1,"api": "http://pandown.pro/mao/buka.php"},   
+{"key": "xmkk","name": "xmkk爬虫","type": 1,"api": "http://pandown.pro/mao/xmkk.php"},   
+{"key": "juzi","name": "桔子爬虫","type": 1,"api": "http://pandown.pro/mao/juzi.php"},
 
 
 {"key":"csp_coke","name":"Cokemv(C)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
