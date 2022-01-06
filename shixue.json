@@ -6,18 +6,6 @@
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key": "shijueyy","name": "视觉影视爬源","type": 1,"api": "https://tt.naifeimi.com/api_php/shijueyy.php"},
-{"key": "cokemv","name": "cokemv爬虫","type": 1,"api": "http://pandown.pro/mao/cokemv.php"},
-{"key": "nekk","name": "九亿爬虫","type": 1,"api": "http://pandown.pro/mao/nekk.php"},
-{"key": "xuangz","name": "六度爬虫","type": 1,"api": "http://pandown.pro/mao/xuangz.php"},
-{"key": "ysgc","name": "毒蛇爬虫","type": 1,"api": "http://pandown.pro/mao/ysgc.php"},
-{"key": "tv552","name": "迪迪爬虫","type": 1,"api": "http://pandown.pro/mao/tv552.php"},
-{"key": "libvio","name": "libvio爬虫","type": 1,"api": "http://pandown.pro/mao/libvio.php"},
-{"key": "buka","name": "buka爬虫","type": 1,"api": "http://pandown.pro/mao/buka.php"},
-{"key": "xmkk","name": "xmkk爬虫","type": 1,"api": "http://pandown.pro/mao/xmkk.php"},
-{"key": "juzi","name": "桔子爬虫","type": 1,"api": "http://pandown.pro/mao/juzi.php"},
-
-
 {"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
 {"key":"jpys","name":"极品影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"},
@@ -37,7 +25,18 @@
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://shdmv.com/api.php/provide/vod/?ac=list","categories":["欧美剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","综艺","动漫"],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key":"renrenmi","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""}
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
+
+{"key": "shijueyy","name": "视觉影视爬源","type": 1,"api": "https://tt.naifeimi.com/api_php/shijueyy.php"},
+{"key": "cokemv","name": "cokemv爬虫","type": 1,"api": "http://pandown.pro/mao/cokemv.php"},
+{"key": "nekk","name": "九亿爬虫","type": 1,"api": "http://pandown.pro/mao/nekk.php"},
+{"key": "xuangz","name": "六度爬虫","type": 1,"api": "http://pandown.pro/mao/xuangz.php"},
+{"key": "ysgc","name": "毒蛇爬虫","type": 1,"api": "http://pandown.pro/mao/ysgc.php"},
+{"key": "tv552","name": "迪迪爬虫","type": 1,"api": "http://pandown.pro/mao/tv552.php"},
+{"key": "libvio","name": "libvio爬虫","type": 1,"api": "http://pandown.pro/mao/libvio.php"},
+{"key": "buka","name": "buka爬虫","type": 1,"api": "http://pandown.pro/mao/buka.php"},
+{"key": "xmkk","name": "xmkk爬虫","type": 1,"api": "http://pandown.pro/mao/xmkk.php"},
+{"key": "juzi","name": "桔子爬虫","type": 1,"api": "http://pandown.pro/mao/juzi.php"}
 
 
 
