@@ -24,7 +24,7 @@
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://shdmv.com/api.php/provide/vod/?ac=list","categories":["欧美剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","综艺","动漫"],"playUrl":"https://svip.naifeimi.com/nfm/?url="},
 {"key":"renrenmi","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""}
 
 
 
