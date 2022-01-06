@@ -1,4 +1,5 @@
-{
+//https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appys.json//
+
   "data": [
     {
       "title": "xiaogui",
@@ -7,7 +8,7 @@
 {"title": "555电影","url": "http://w7tv.com/xgapp.php/v1/"},
 {"title": "5060影院","url": "https://app.linzhiyuan.xyz/xgapp.php/v1/"},
 {"title": "913e影视","url": "http://www.913e.net/xgapp.php/v1/"},
-{"title": "LIBVIO","url": "https://www.mkys.me/api.php/app/"},
+{"title": "XXLIBVIO","url": "https://www.mkys.me/api.php/app/"},
 {"title": "TV酷","url": "https://www.u23c.com/api.php/app/"},
 {"title": "vip影院","url": "http://360yy.cn/api.php/app/"},
 {"title": "爱迪影视","url": "https://aidi.fun/xgapp.php/v1/"},
@@ -26,7 +27,7 @@
 {"title": "大鱼TV","url": "https://www.dytv123.com/api.php/app/"},
 {"title": "段友影视","url": "http://js.66app.me/api.php/app/"},
 {"title": "非凡TV","url": "https://app.feifan.live:2087/xgapp.php/v1/"},
-{"title": "饭团影院","url": "http://television.wkfile.com/api.php/app/"},
+{"title": "XX饭团影院","url": "http://television.wkfile.com/api.php/app/"},
 {"title": "瓜皮TV","url": "http://www.dijiaxia.com/xgapp.php/v1/"},
 {"title": "海胆影视","url": "http://xf123.cc/api.php/app/"},
 {"title": "火箭影视","url": "http://huojian.wchulian.com.cn/api.php/app/"},
