@@ -21,6 +21,8 @@
 {"key":"csp_appys_xiaogui_环球影视","name":"环球影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_环球影视"},
 {"key":"csp_appys_xiaogui_莫扎兔","name":"莫扎兔(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_莫扎兔"},
 {"key":"csp_appys_v1_爱西西","name":"爱西西(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱西西"},
+{"key":"csp_appys_v1_美剧范","name":"美剧范(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_美剧范"},
+
 
 
 {"key":"喵派对蓝光","name":"喵派对蓝光","type":0,"api":"https://www.mgtv.one/api.php/provide/vod/at/xml","playUrl":"http://renren.ga/jxphp/nfm/miaop.php?url=","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]},
