@@ -49,7 +49,7 @@
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
     "playUrl": "https://www.nfuxs.com/vodplay/{playUrl}.html",
-    "playUa": "https://www.duoduozy.com/",
+    "playUa": "",//https://www.duoduozy.com/
     "searchUrl": "https://www.nfuxs.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
     "scVodNode": "json:list",
     "scVodName": "name",
