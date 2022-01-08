@@ -4,17 +4,12 @@
 "sites":[
 
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Imaple","name":"枫叶","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_appys_xiaogui_天空影视","name":"天空影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_天空影视"},
 
 {"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
 {"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
+{"key":"nfzj","name":"南府影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
 
-{"key":"trj","name":"唐人街","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/trj.json"},
-{"key":"age","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"},
-{"key":"nfzj","name":"南府影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
-{"key":"tkys","name":"天空影视","type":3,"api":"csp_XPath","jx":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/tkys.json"},
-
-{"key":"csp_appys_xiaogui_天空影视","name":"天空影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_天空影视"},
 {"key":"csp_appys_xiaogui_LIBVIO","name":"LIBVIO(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_LIBVIO"},
 {"key":"csp_appys_xiaogui_瓜皮TV","name":"瓜皮TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_瓜皮TV"},
 {"key":"csp_appys_xiaogui_灵狐影视","name":"灵狐影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_灵狐影视"},
@@ -24,15 +19,14 @@
 {"key":"csp_appys_v1_爱西西","name":"爱西西(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱西西"},
 {"key":"csp_appys_v1_美剧范","name":"美剧范(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_美剧范"},
 
-
-
 {"key":"喵派对蓝光","name":"喵派对蓝光","type":0,"api":"https://www.mgtv.one/api.php/provide/vod/at/xml","playUrl":"http://renren.ga/jxphp/nfm/miaop.php?url=","searchable":1,"quickSearch":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]},
 {"key":"奈菲迷","name":"奈菲迷","type":1,"api":"https://shdmv.com/api.php/provide/vod/?ac=list","categories":["4K电影","4K剧集","欧美剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","综艺","动漫"],"playUrl":""},
 {"key":"renrenmi","name":"人人影视","type":1,"api":"https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list","categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧"],"playUrl":"https://jx.renrenmi.cc/?url="},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
-{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""}
-
-
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"http://ukuzy.com/api.php/provide/vod?ac=list","categories":[],"playUrl":""},
+{"key":"csp_Imaple","name":"枫叶","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"trj","name":"唐人街","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/trj.json"},
+{"key":"age","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"}
 
 ],
 "lives":[{"group":"Astro1","channels":[
