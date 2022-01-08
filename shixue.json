@@ -1,6 +1,6 @@
 {
-"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar",
-"ider":"https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar;md5;72f1f8a0d8dd9ba2ab567fc3496896bb",
+"ider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar",
+"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar;md5;72f1f8a0d8dd9ba2ab567fc3496896bb",
 "sites":[
 
 {"key":"csp_ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
