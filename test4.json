@@ -1,6 +1,6 @@
 ### 2021 copy jhb
 {
-"spider": "https://tt.naifeimi.com/naifei.f.api/custom_spider.jar",
+"spider": "https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar;md5;72f1f8a0d8dd9ba2ab567fc3496896bb",
   "sites": [
 {"key":"tkys","name":"天空影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/tkys.json"}
 
