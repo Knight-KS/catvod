@@ -2,7 +2,7 @@
 {
 "spider": "https://tt.naifeimi.com/naifei.f.api/custom_spider.jar",
   "sites": [
-{"key":"tkys","name":"天空影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/tkys.json"}
+{"key":"tkys","name":"天空影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/tkys.json"}
 
 
   ],
