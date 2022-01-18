@@ -1,0 +1,222 @@
+{
+"匹配源": [
+
+		{
+			"匹配站名":"极品推荐",
+			"匹配类别":"77",
+			"匹配地址":"http://api.kunyu77.com/api.php/provide/searchVideo?searchName=##",
+			"搜索ID":"http://api.kunyu77.com/api.php/provide/videoPlaylist?ids=",
+			"请求头":"User-Agent:",
+			"请求值":"Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)"
+		},
+        {
+			"匹配站名":"饭团推荐",
+			"匹配类别":"1",
+			"匹配地址":"http://television.wkfile.com/api.php/provide/vod/",
+			"解析":"",
+            "播放头":"Origin:https://ptwo.wkfile.com\nUser-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent:",
+			"请求值":"Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)"
+		},
+         {
+			"匹配站名":"爱看",
+			"匹配类别":"1",
+			"解析":"http://bfq.ikan6.vip/m3u8/nijiushicaibudao.php?url=",
+			"解析类":"json",
+			"匹配地址":"http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/",
+			"请求头":"User-Agent:",
+			"请求值":"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ZHCN)"
+		},
+         {
+			"匹配站名":"瑞风萝卜",
+			"匹配类别":"2",
+			"匹配地址":"https://ts.yjhan.com:4433/ruifenglb_api.php/v1.vod",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"鸾心",
+			"匹配类别":"3",
+			"解析":"",
+			"解析类":"",
+			"匹配地址":"http://xinluan.520say.cn/xgapp.php/v1/",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"迪迪",
+			"匹配类别":"3",
+			"解析":"",
+			"解析类":"",
+			"匹配地址":"http://dd88.icu:6080/xgapp.php/v2/",
+			"请求头":"",
+			"请求值":""
+		},
+        {
+			"匹配站名":"星辰",
+			"匹配类别":"2",
+			"匹配地址":"https://m.hj0999.com/api.php/v1.vod",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"龙腾",
+			"匹配类别":"1",
+			"搜索ID":"http://api.kunyu77.com/api.php/provide/videoPlaylist?ids=",
+			"解析":"https://ltjx.cultureplus.shop/home/api?type=ys&uid=711773&key=ekpsvwBCDFNOPRW056&url=",
+			"解析类":"json",
+			"匹配地址":"http://zycj.cygc.xyz/api.php/provide/vod/",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"麻花TV",
+			"匹配类别":"3",
+			"匹配地址":"https://www.mahuashipin.com/api.php/app/",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"星空影院",
+			"匹配类别":"3",
+			"匹配地址":"https://xkys.tv/xgapp.php/v1/",
+			"请求头":"",
+			"请求值":""
+		},
+         {
+			"匹配站名":"天空影院",
+			"匹配类别":"3",
+			"匹配地址":"https://www.tkys.tv/api.php/app/",
+			"请求头":"",
+			"请求值":""
+		},
+        {
+			"匹配站名":"饭后影视",
+			"匹配类别":"2",
+			"匹配地址":"http://summ.vip/api.php/v1.vod",
+            "播放头":"",
+			"请求头":"",
+			"请求值":""
+		},
+        {
+			"匹配站名":"1080p",
+			"匹配类别":"2",
+			"匹配地址":"https://1080p.one/mogai_api.php/v1.vod",
+            "播放头":"",
+			"请求头":"",
+			"请求值":""
+		},
+        {
+			"匹配站名":"可米",
+			"匹配类别":"2",
+			"匹配地址":"http://www.69ty.cc/mogai_api.php/v1.vod",
+            "播放头":"",
+			"请求头":"",
+			"请求值":""
+		},
+        {
+			"匹配站名":"百姓资源推荐",
+			"匹配类别":"1",
+			"匹配地址":"http://app.reboju.net/api.php/provide/vod/",
+			"请求头":"",
+			"请求值":""
+		},
+		{
+			"匹配站名":"电影盒子",
+			"匹配类别":"web",
+            "匹配网址":"https://www.wxwxwx01.com",
+			"匹配搜索":"https://www.wxwxwx01.com/index.php?g=home&m=search&a=api&sid=0&limit=10&wd=##",
+			"搜索标题":"vod_name\":\"(.*?)\"",
+            "搜索地址":"link\":\"(.*?)\"",
+			"搜索图片":"data-original=\"(.*)\"><span",
+			"选集地址":"<li class=\"col-xs-4\"><a href=\"(.*?)\"",
+			"选集标题":"em class=\"num\">(.*?)<",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36"
+		},
+		{
+			"匹配站名":"348影视",
+			"匹配类别":"web",
+            "匹配网址":"https://348z.com",
+			"匹配搜索":"https://348z.com/vodsearch/wd/##.html",
+			"搜索标题":"<a class=\"aplus-exp ecimgbor\" href=\".*?\" title=\"(.*?)\"",
+            "搜索地址":"<a class=\"aplus-exp ecimgbor\" href=\"(.*?)\" title=\".*?\"",
+			"搜索图片":"<div class=\"bj eclazy\" data-original=\"(.*?)\"",
+			"选集地址":"<li>[\\s]*?<a class=\"t-u\" href=\"(.*?)\">.*?</a>[\\s]*?</li>",
+			"选集标题":"<li>[\\s]*?<a class=\"t-u\" href=\".*?\">(.*?)</a>[\\s]*?</li>",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36"
+		},
+		{
+			"匹配站名":"看片狂人",
+			"匹配类别":"web",
+            "匹配网址":"https://www.kpkuang.cc",
+			"匹配搜索":"https://www.kpkuang.cc/vodsearch/-------------.html?wd=##",
+			"搜索标题":"<a class=\"fed-list-pics fed-lazy fed-part-2by3\" href=\".*?\" title=\"(.*?)\" data-original=\".*?\">",
+            "搜索地址":"<a class=\"fed-list-pics fed-lazy fed-part-2by3\" href=\"(.*?)\" title=\".*?\" data-original=\".*?\">",
+			"搜索图片":"<a class=\"fed-list-pics fed-lazy fed-part-2by3\" href=\".*?\" title=\".*?\" data-original=\"(.*?)\">",
+			"选集地址":"<li class=\"fed-padding fed-col-xs3 fed-col-md2 fed-col-lg1\">[\\s]*?<a class=\"fed-btns-info fed-rims-info fed-part-eone\" href=\"(.*?)\" title=\".*?\">.*?</a>[\\s]*?</li>",
+			"选集标题":"<li class=\"fed-padding fed-col-xs3 fed-col-md2 fed-col-lg1\">[\\s]*?<a class=\"fed-btns-info fed-rims-info fed-part-eone\" href=\".*?\" title=\".*?\">(.*?)</a>[\\s]*?</li>",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36"
+		},
+		{
+			"匹配站名":"外剧迷",
+			"匹配类别":"web",
+            "匹配网址":"http://www.waijumi.com",
+			"匹配搜索":"http://www.waijumi.com/vs/##-------------.html",
+			"搜索标题":"<a class=\"hl-item-thumb hl-lazy\" href=\".*?\" title=\"(.*?)\" data-original=\".*?\">",
+            "搜索地址":"<a class=\"hl-item-thumb hl-lazy\" href=\"(.*?)\" title=\".*?\" data-original=\".*?\">",
+			"搜索图片":"<a class=\"hl-item-thumb hl-lazy\" href=\".*?\" title=\".*?\" data-original=\"(.*?)\">",
+			"选集地址":"<li class=\"hl-col-xs-4 hl-col-sm-2\">[\\s]*?<a href=\"(.*?)\">.*?</a>[\\s]*?</li>",
+			"选集标题":"<li class=\"hl-col-xs-4 hl-col-sm-2\">[\\s]*?<a href=\".*?\">(.*?)</a>[\\s]*?</li>",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36"
+		},
+		{
+			"匹配站名":"环球影院",
+			"匹配类别":"web",
+            "匹配网址":"https://www.xhqyy.com",
+			"匹配搜索":"https://www.xhqyy.com/index.php/rss/index.xml?wd=##",
+			"搜索标题":"<item>[\\s]*?<title>(.*?)</title>[\\s]*?<link>.*?</link>",
+            "搜索地址":"<item>[\\s]*?<title>.*?</title>[\\s]*?<link>(.*?)</link>",
+			"搜索图片":"pic\":\"(.*?)\"",
+			"选集地址":"<li class=\"col-lg-10 col-md-8 col-sm-6 col-xs-4\"><a class=\"btn btn-default\" href=\"(.*?)\">.*?</a></li>",
+			"选集标题":"<li class=\"col-lg-10 col-md-8 col-sm-6 col-xs-4\"><a class=\"btn btn-default\" href=\".*?\">(.*?)</a></li>",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+		},
+		{
+			"匹配站名":"映迷",
+			"匹配类别":"web",
+            "匹配网址":"https://www.inmi.app",
+			"匹配搜索":"https://www.inmi.app/index.php/vod/search.html?wd=##&submit=",
+			"搜索标题":"lazyload\" href=\".*?\" title=\"(.*?)\" data-original=\".*?\">",
+            "搜索地址":"lazyload\" href=\"(.*?)\" title=\".*?\" data-original=\".*?\">",
+			"搜索图片":"lazyload\" href=\".*?\" title=\".*?\" data-original=\"(.*?)\">",
+			"选集地址":"class=\"btn btn-default\" href=\"(.*?)\">(.*?)</a>[\\s]*?</li>",
+			"选集标题":"class=\"btn btn-default\" href=\".*?\">(.*?)</a>[\\s]*?</li>",
+            "播放头":"User-Agent:Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36 AgentWeb/4.1.3  UCBrowser/11.6.4.950 ",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+		},
+        {
+			"匹配站名":"真不卡",
+			"匹配类别":"web",
+            "匹配网址":"https://www.zhenbuka3.com",
+			"匹配搜索":"http://www.ppzhu.vip/zhenbuka.php?wd=##",
+			"搜索标题":"title='(.*?)'",
+            "搜索地址":"href='(.*?)'",
+			"搜索图片":"src='(.*?)'",
+			"选集地址":"<li ><a href=\"(.*)\">.*</a></li>",
+			"选集标题":"<li ><a href=\".*\">(.*)</a></li>",
+			"请求头":"User-Agent: ",
+			"请求值":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"		
+        }
+        ]
+}
