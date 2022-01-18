@@ -32,6 +32,18 @@
 {"name":"高清解析7","type":0,"url":["https://titan.mgtv.com.jumi.tv/player/?url="]},
 {"name":"高清解析8","type":0,"url":["https://qimihe.com/?url="]},
 {"name":"高清解析9","type":0,"url":["https://cokemv.me/player/?url="]},
+{"name":"ltnb","type":0,"url":["https://09tv.top/jx/?url="]},
+{"name":"ysgc","type":0,"url":["https://player.ysgc.xyz/duoduo/?url="]},
+{"name":"duoduozy","type":0,"url":["https://player.duoduozy.com/ddplay/?url="]},
+{"name":"duoduozy2","type":0,"url":["https://bo.movie06.com/ddplay/play.php?url="]},
+{"name":"NFMs","url":"https://tt.naifeimi.com/jxphp/jx/jxx.html?url="},
+{"name":"xfyun","url":"http://xfy.ikuwoo.cn/?url="},
+{"name":"youku","type":0,"url":["https://qimihe.com/?url="]},
+{"name":"mgtv","type":0,"url":["https://1-th.gzmtc.top/?url="]},
+{"name":"yemao","type":0,"url":["https://jx.6949.cc/?url="]},
+{"name":"coke","type":0,"url":["https://cokemv.me/player/?url="]},
+{"name":"miao","type":0,"url":["https://vip5.jiexi.one/?url="]},
+{"name":"duoduozy","type":0,"url":["https://www.6080kan.cc/app.php?url="]},
 
 //https://litecucumber.coding.net/p/cat/d/config/git/raw/master/ps.json//
 {"name":"大熊影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=","t":303},
