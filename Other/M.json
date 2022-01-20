@@ -2,16 +2,17 @@
 "spider": "https://gitlab.com/lohshixue/OriginalCat/raw/master/jar/custom_spider.jar?raw=true",
 "sites":[
 
-影视工厂，https://www.ik4.cc/xgapp.php/v1/index_video?token=，https://www.ysgc.cc/xgapp.php/v1/nav?token=
-ikan，http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/
-tkys,https://www.tkys.tv/api.php/app/nav?token=
-饭团，http://television.wkfile.com/api.php/app/nav?token=
-libvio,https://www.mkys.me/api.php/app/nav?token=
-皮瓜，http://www.dijiaxia.com/xgapp.php/v1/nav?token=
-爱西西，http://app.aixixi.vip/mogai_api.php/v1.vod/types
-美剧范，http://ttzmz.net/api.php/v1.vod/types
 
+{"key":"csp_appys_影视工厂", "name":"影视工厂(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.ik4.cc/xgapp.php/v1/index_video?token="},
+{"key":"csp_appys_爱看", "name":"爱看(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/"},
+{"key":"csp_appys_天空", "name":"天空(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/api.php/app/nav?token="},
+{"key":"csp_appys_饭团", "name":"饭团(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/nav?token="},
+{"key":"csp_appys_libvio", "name":"libvio(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.mkys.me/api.php/app/nav?token="},
+{"key":"csp_appys_皮瓜", "name":"皮瓜(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.dijiaxia.com/xgapp.php/v1/nav?token="},
+{"key":"csp_appys_爱西西", "name":"爱西西(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.aixixi.vip/mogai_api.php/v1.vod/types"},
+{"key":"csp_appys_美剧范", "name":"美剧范(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod/types"},
 
+{"key":"csp_appys_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://w7tv.com/xgapp.php/v1/index_video?token="},
 
 {"key":"csp_appys_南府追剧", "name":"南府追剧(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
 {"key":"csp_appys_HG影视", "name":"HG影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://hgyx.vip/api.php/v1.vod"},
