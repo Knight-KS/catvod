@@ -6,7 +6,7 @@
 {"key": "kb2","name": "快播2","type": 1,"api": "https://www.tkys.tv/api.php/app/nav?token=","categories":[],"playUrl": ""},
 {"key":"csp_appys_影视工厂", "name":"影视工厂(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.ik4.cc/xgapp.php/v1/index_video?token="},
 {"key":"csp_appys_爱看", "name":"爱看(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/?ac=detail&ids=26760,26835,26827,26755,26779,26834,26833,26745,25169,26832,26831,26830,26829,26778,26828,26777,26736,26800,26787,26786"},
-{"key":"csp_appys_天空", "name":"天空(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/api.php/app/nav?token="},
+{"key":"csp_appys_天空", "name":"天空(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/api.php/app/"},
 {"key":"csp_appys_饭团", "name":"饭团(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/nav?token="},
 {"key":"csp_appys_libvio", "name":"libvio(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.mkys.me/api.php/app/nav?token="},
 {"key":"csp_appys_皮瓜", "name":"皮瓜(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.dijiaxia.com/xgapp.php/v1/nav?token="},
