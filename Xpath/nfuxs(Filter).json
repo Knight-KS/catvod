@@ -45,7 +45,7 @@
     "dtUrlNode": "//div[@class='scroll-content']",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
-    "dtUrlIdR": "/vodplay/(\\S+).html",
+    "dtUrlIdR": "/vodplay/(\\S+)/",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
     "playUrl": "https://www.nfuxs.com/vodplay/{playUrl}/",
