@@ -1,6 +1,5 @@
 {
-"ider":"https://gitlab.com/shixue/catvod/raw/main/Other/main_spider040122.jar",
-"spider":"https://gitlab.com/shixue/catvod/raw/main/Other/custom_spider050122.jar;md5;72f1f8a0d8dd9ba2ab567fc3496896bb",
+"spider":"https://gitlab.com/shixue/catvod/raw/main/aliyun%20jar/tangsang250222_custom_spider.jar;md5;2857f45cf80777efec6897b7b88f4341",
 "sites":[
 
 {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
@@ -9,16 +8,16 @@
 {"key":"csp_Ysgc2","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc2","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"csp_appysv2_南府追剧","name":"南府追剧(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"南府追剧###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_LIBVIO","name":"LIBVIO(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"LIBVIO###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_映迷","name":"映迷(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"映迷###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_瓜皮TV","name":"瓜皮TV(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"瓜皮TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭团影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_莫扎兔","name":"莫扎兔(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"莫扎兔###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_星空影视","name":"星空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_天空影视","name":"天空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
-{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_南府追剧","name":"南府追剧(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"南府追剧###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_LIBVIO","name":"LIBVIO(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"LIBVIO###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_映迷","name":"映迷(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"映迷###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_瓜皮TV","name":"瓜皮TV(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"瓜皮TV###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭团影视###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_莫扎兔","name":"莫扎兔(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"莫扎兔###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_星空影视","name":"星空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_天空影视","name":"天空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
 
