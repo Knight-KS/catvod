@@ -9,20 +9,22 @@
 {"key":"csp_Ysgc2","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc2","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 
+{"key":"csp_appysv2_南府追剧","name":"南府追剧(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"南府追剧###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_LIBVIO","name":"LIBVIO(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"LIBVIO###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_映迷","name":"映迷(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"映迷###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_瓜皮TV","name":"瓜皮TV(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"瓜皮TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭团影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_莫扎兔","name":"莫扎兔(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"莫扎兔###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_星空影视","name":"星空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_天空影视","name":"天空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
 
-{"key":"csp_appys_xiaogui_天空影视","name":"天空影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_天空影视"},
-
-{"key":"csp_coke","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"},
-{"key":"csp_auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"},
-{"key":"nfzj","name":"南府影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/shixue/catvod/raw/main/Xpath/nfuxs.json"},
-
-{"key":"csp_appys_xiaogui_LIBVIO","name":"LIBVIO(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_LIBVIO"},
-{"key":"csp_appys_xiaogui_瓜皮TV","name":"瓜皮TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_瓜皮TV"},
 {"key":"csp_appys_xiaogui_灵狐影视","name":"灵狐影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_灵狐影视"},
 {"key":"csp_appys_xiaogui_追剧达人","name":"追剧达人(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_追剧达人"},
 {"key":"csp_appys_xiaogui_环球影视","name":"环球影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_环球影视"},
-{"key":"csp_appys_xiaogui_莫扎兔","name":"莫扎兔(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_莫扎兔"},
 {"key":"csp_appys_v1_爱西西","name":"爱西西(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱西西"},
 {"key":"csp_appys_v1_美剧范","name":"美剧范(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_美剧范"},
 

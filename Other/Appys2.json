@@ -1,6 +1,10 @@
 {
   "sites": {
 "南府追剧":{"url":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
+"LIBVIO":{"url":"https://www.mkys.me/api.php/app/"},
+"映迷":{"url":"https://www.inmi.app/xgapp.php/v1/"},
+"瓜皮TV":{"url":"http://www.dijiaxia.com/xgapp.php/v1/"},
+"莫扎兔":{"url":"http://www.mozhatu.xyz/api.php/app/"},
 "追剧达人":{"url":"https://vipmv.co/xgapp.php/v1/"},
 "星空影视":{"url":"https://xkys.tv/xgapp.php/v1/","jx":[]},
 "天空影视":{"url":"https://tkys.tv/xgapp.php/v1/"},
