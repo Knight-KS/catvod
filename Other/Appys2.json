@@ -251,7 +251,16 @@
 "小熊猫TV":{"url":"http://tv2.hetaoys.vip/api.php/iptv/vod/"},
 "影视阁":{"url":"http://216.98.10.85/api.php/iptv/vod/"}
   },
-  "jx": [["miaoparty3","miaoparty3","https://www.meiju56.com/a/jmplay/?url="],
+  "jx": [
+["CL4K","CL4K","http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="],
+["Renrenmi","Renrenmi","https://jx.blbo.cc:4433/?url="],
+["QQ2","QQ2","https://jf.tcysvip.cn/?url="],
+["3DPT","3DPT","https://jx.973973.xyz/?url="],
+["追剧吧1","追剧吧1","http://newjiexi.gotto.top/yun_apib.php/?url="],
+["PG","PG","https://json.pangujiexi.com:12345/json.php?url="],
+["77","77","https://ysjx.jikezhuji.com/api/?key=80gdewY7tQriIwA6hw&url="],
+["21","21","http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="],
+["miaoparty3","miaoparty3","https://www.meiju56.com/a/jmplay/?url="],
 ["laodim3u8","laodi","https://api.xkvideo.design/m3u8.php?url="],
 ["yunc","yunc","https://nf.xkvideo.design/m3u8.php?url="],
 ["duoduozy","duoduo","https://bo.movie06.com/ddplay/play.php?url="],
