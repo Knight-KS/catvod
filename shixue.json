@@ -8,7 +8,7 @@
 {"key":"csp_Ysgc2","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc2","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"if101资源","name":"海外推荐","type":1,"api":"https://api.if101.tv/v1/vod?ac=detail","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_南府追剧","name":"南府追剧(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"南府追剧###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"csp_appysv2_LIBVIO","name":"LIBVIO(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"LIBVIO###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
