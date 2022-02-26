@@ -10,6 +10,7 @@
 
 {"key":"csp_appysv2_南府追剧","name":"南府追剧(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"南府追剧###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"csp_appysv2_LIBVIO","name":"LIBVIO(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"LIBVIO###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appys_LIBVIO", "name":"LIBVIO", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.mkys.me/api.php/app/"},
 {"key":"csp_appys_映迷", "name":"映迷", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"csp_appys_瓜皮TV", "name":"瓜皮TV", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dijiaxia.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_映迷","name":"映迷(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"映迷###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
