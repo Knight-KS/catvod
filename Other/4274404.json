@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "normal"
     },
+     {
+      "key": "nfzjm_spider",
+      "name": "南府追剧(AT)",
+      "type": 3,
+      "api": "csp_Nfzjm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/nfzj.json"
+    },
     {
       "key": "tkys_spider",
       "name": "天空影视(V0)",
