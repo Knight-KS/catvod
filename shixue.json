@@ -44,7 +44,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-{"name": "龙腾(切1)","type": 1,"url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1427917&key=bdfilpqsxzDEGHRW04&url="},
+{"name":"龙腾","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=1427917&key=bdfilpqsxzDEGHRW04&url="},
 {"name":"21","type":1,"url":"http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="},
 {"name":"3DPT","type":1,"url":"https://jx.973973.xyz/?url="},
 {"name":"CL4K","type":1,"url":"http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="},
