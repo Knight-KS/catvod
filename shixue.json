@@ -2,7 +2,6 @@
 "spider":"https://gitlab.com/shixue/catvod/raw/main/aliyun%20jar/tangsang250222_custom_spider.jar;md5;2857f45cf80777efec6897b7b88f4341",
 "sites":[
 
-{"key": "csp_Djx","name": "瓜皮TV(爬虫)","type": 3,"api": "csp_Djx","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Ysgc2","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc2","searchable":1,"quickSearch":0,"filterable":1},
@@ -12,6 +11,7 @@
 {"key":"csp_appysv2_映迷","name":"映迷(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"映迷###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"csp_appysv2_灵狐影视","name":"灵狐影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"灵狐影视###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://gitlab.com/shixue/catvod/raw/main/Other/Appys2.json"},
+{"key":"csp_appys_饭团影视", "name":"饭团影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
 {"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1}
 
 
