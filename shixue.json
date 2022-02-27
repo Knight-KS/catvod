@@ -2,6 +2,7 @@
 "spider":"https://gitlab.com/shixue/catvod/raw/main/aliyun%20jar/tangsang250222_custom_spider.jar;md5;2857f45cf80777efec6897b7b88f4341",
 "sites":[
 
+{"key": "csp_Djx","name": "瓜皮TV(爬虫)","type": 3,"api": "csp_Djx","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Ysgc2","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc2","searchable":1,"quickSearch":0,"filterable":1},
