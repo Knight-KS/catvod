@@ -45,7 +45,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
 {"name":"CL4K","type":1,"url":"http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="},
-{"name":"Renrenmi","type":1,"url":"https://jx.blbo.cc:4433/?url="},
+{"name":"Renrenmi","type":0,"url":"https://jx.blbo.cc:4433/?url="},
 {"name":"QQ2","type":1,"url":"https://jf.tcysvip.cn/?url="},
 {"name":"3DPT","type":1,"url":"https://jx.973973.xyz/?url="},
 {"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
