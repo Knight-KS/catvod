@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/nfzj.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/nfzj.json"
     },
     {
       "key": "tkys_spider",
@@ -74,7 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/cokemv.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/cokemv.json"
     },
     {
       "key": "dsx_spider",
@@ -120,7 +120,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/auete.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/auete.json"
     },
     {
       "key": "n0ys_spider",
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/aidi.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/aidi.json"
     },
     {
       "key": "enlienli_spider",
@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/jipin.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/jipin.json"
     },
     {
       "key": "buka_spider",
@@ -168,7 +168,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/buka.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/buka.json"
     },
     {
       "key": "ftys_spider",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/fantuan.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/fantuan.json"
     },
     {
       "key": "9ekk_spider",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/9ekk.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/9ekk.json"
     },
     {
       "key": "csp_xpath_cjt",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/cjtys.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/cjtys.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -208,7 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/saohuotv2.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/saohuotv2.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/dm84.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/dm84.json"
     },
     {
       "key": "csp_xpath_age",
@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/shixue/catvod/raw/main/lite/Json/agefans.json"
+      "ext": "https://github.com/shixue82/catvod/raw/main/lite/Json/agefans.json"
     }
   ],
   "lives": [
